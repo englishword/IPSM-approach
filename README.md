@@ -1,6 +1,6 @@
 # Read Me
 
-How to use this brilliant method **Lingose Notation** (音形意统一记忆法 in Chinese） to study English?
+How to use this brilliant method **Lingose Notation** (音形意统一记忆法 in Chinese) to study English?
 
 This is the best method for a second language learner to study English words, no kidding. It will help you children master English easily.
 
