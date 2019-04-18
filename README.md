@@ -2,7 +2,7 @@
 
 How to use this brilliant method **Lingose Notation** (音形意统一记忆法 in Chinese) to study English?
 
-This is the best method for second language learners to study English words, no kidding. It will help you children master English in a short time.
+This is the best method for second language learners to study English words, no kidding. It will help your children master English in a short time.
 
 First, you can read this [first lesson](https://github.com/englishword/document/blob/master/first_lesson.md).
 
