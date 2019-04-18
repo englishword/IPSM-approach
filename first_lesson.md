@@ -168,20 +168,20 @@ U-    |     |   |ūi |   |
 
    .     |多音	|	例词
 --------|-------|-----
-	ea	|[ēa]   |	mēat
-     ea   |[eā]	|greāt
-      ea  |[èa]|	brèad
-	ei|	[ēi]	|cēiling
-     ei   |[èi]|	vèil
-	o	|[ô]	|	sôme
-     o   |[õ]	|	shõe
-	ou	|[ōu]|	sōul
-     ou  |[oū]	|groūp
-    ou   |[òu]	|clòud
-     ou  |[ôu]|	dôuble
-	oo	|[oo]|	cool
-     oo  |[oo(d)],[oo(k)]|	good, book
-     oo  |[ôo]	|blôody
+ea     |  [ēa]  | mēat
+ea     |[eā]    |greāt
+ea     |[èa]    | brèad
+ei     |[ēi]   |cēiling
+ei     |[èi]   | vèil
+o      |[ô] | sôme
+o      |[õ]    |  shõe
+ou     |[ōu]|	sōul
+ou     |[oū]    |groūp
+ou     |[òu]    |clòud
+ou     |[ôu]    |  dôuble
+oo     |[oo]    |  cool
+oo     |[oo(d)],[oo(k)]|  good, book
+oo     |[ôo]    |blôody
 
 	《多音字母助记歌》
 	Mēat and brèad, greāt! 肉，面包，相当棒；
