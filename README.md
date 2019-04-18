@@ -1,9 +1,10 @@
-# document
-How to use this brilliant method "音形意统一记忆法"（in Chinese） to study English?
+# Read Me
 
-This is the best method for a second language learner to study English words, no kidding.
+How to use this brilliant method **Lingose Notation** (音形意统一记忆法 in Chinese） to study English?
 
-First, you can read this [first lesson](https://github.com/englishword/document/blob/master/first_lesson.md)
+This is the best method for a second language learner to study English words, no kidding. It will help you children master English easily.
+
+First, you can read this [first lesson](https://github.com/englishword/document/blob/master/first_lesson.md).
 
 If you get it, you can read this [30 essay.md](https://github.com/englishword/document/blob/master/30_essay.md)
 
