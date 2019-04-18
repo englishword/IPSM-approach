@@ -1,4 +1,4 @@
-# The Best Mnenonics and Notational System of English Words.
+# The Best Mnemonics and Notational System of English Words.
 
 How to use this brilliant method **Lingose Notation** (音形意统一记忆法 in Chinese) to study English?
 
