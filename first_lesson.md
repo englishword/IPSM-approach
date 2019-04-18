@@ -166,22 +166,22 @@ U-    |     |   |ūi |   |
 汉字有多音字，英语字母也有“多音字”，熟记这些多音组合。
 
 
-   .     |多音	|	例词
+   .    |多音	|	例词
 --------|-------|-----
 ea     |  [ēa]  | mēat
-ea     |[eā]    |greāt
-ea     |[èa]    | brèad
+.      |[eā]    |greāt
+.      |[èa]    | brèad
 ei     |[ēi]   |cēiling
-ei     |[èi]   | vèil
+.      |[èi]   | vèil
 o      |[ô] | sôme
-o      |[õ]    |  shõe
+.      |[õ]    |  shõe
 ou     |[ōu]|	sōul
-ou     |[oū]    |groūp
-ou     |[òu]    |clòud
-ou     |[ôu]    |  dôuble
+.      |[oū]    |groūp
+.      |[òu]    |clòud
+.      |[ôu]    |  dôuble
 oo     |[oo]    |  cool
-oo     |[oo(d)],[oo(k)]|  good, book
-oo     |[ôo]    |blôody
+.      |[oo(d)],[oo(k)]|  good, book
+.      |[ôo]    |blôody
 
 	《多音字母助记歌》
 	Mēat and brèad, greāt! 肉，面包，相当棒；
