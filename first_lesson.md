@@ -278,9 +278,9 @@ R字母就是一个粘人的小弟弟，它喜欢和五个元音哥哥粘在一�
 .     |	|	例词		|	备注
 --------|----|-----------|-----------
 th|	[th]	|think	|   
-.     |[t͡h]	|t͡his	|   
+.     |[t̅h]	|t̅his	|   
 sh|	[sh]	|ship|   
-ch	|[c͡h]	|mac͡hine|  
+ch	|[c̅h]	|mac̅hine|  
   .     |[ch]	|cheep|  
 tch	|[tch]	|catch|  		
 ng	|[ng]	|king|  	
@@ -298,7 +298,7 @@ ph	|[f]|	photo	|
 	CH: bēach lunch chēese bench chůrch chickėn chāir cherry̍
 	SH: shēep shi̊rt ship fish dish
 	PH: phōtō elėphånt telėphōne trōphy̍ phàrmåcy̍ alphåbėt
-	TH: brôt͡he̊r fèat͡he̊r lèat͡he̊r fàt͡he̊r môt͡he̊r
+	TH: brôt̅he̊r fèat̅he̊r lèat̅he̊r fàt̅he̊r môt̅he̊r
 	TH: thumb thrēe bath thi̊rsty̍ thiēf mòuth tēeth
 
 ## 11. 辅音组合
