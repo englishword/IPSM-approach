@@ -22,6 +22,10 @@ Other vowels are marked by
 - Apostrophe ( ˋ ):     Variant sound.
 - Sharp      ( ^ ):     Pronouncing /˄/.
 
+The IPS notation corresponds one-to-one with IPA (International Phonetic Alphabet) . It is possible to convert the IPA of an Englsih word into IPS and vice versa.
+
+Compared with IPA, IPS is created based on the pronunciation rules of words. It is more concise and clear. With long-term use, you can master the pronunciation rules of words imperceptibly and thus no longer need any phonetic notation.
+
 | **IPA Symbol** | **IPS Notation**  | **Examples** |
 | -------------- | ------------- | ----------- |
 | /p/            | [p]                                                          | pen                                               |
