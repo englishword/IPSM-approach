@@ -1,151 +1,87 @@
-<center><b><font size="5" color="black">音素音标教学法<p></font></b></center>
+<center><b><font size="5" color="black">IPS Notation of IPSM Approach<p></font></b></center>
 
-# 一、学习目标
+## 1. 26 Letters
 
-掌握六个符号（横、圈、点、波、捺、角）所代表的读音，从而做到，不借助国际音标，轻松拼读任何英语单词和句子，最终实现“**见词能读，听音能写**”的英语基本能力[1]。
+A a	|B b    |	C c |D d	|E e	| F f | G g 
+:----:|:-----:|:----:|:----:|:---:|:---:|:---:
+H h|	I i	|J j	|K k	|L l	|M m| N n 
+O o	|P p|	Q q	| | R r |	S s	|T t
+U u	|V v|	W w	| |	X x	|Y y	|Z z
 
-|横线       |  －  | 开音符（发所标元音字母的字母音）|
-|:---------:|--------|-------------|
-|无符号 |    | 闭音符（发该元音字母的闭音）|
-|圆圈 |   。 | 弱音符（发弱音/ǝ/）|
-|点    |  '  |  轻音符（发轻音/i/）|
-|波浪  |  ~  | 长音符（发某些长音）|
-|长捺  |  ˋ  |  变音符（发某些变音）|
-|尖角  |  ^  |  /˄/音符（发/˄/音）|
+## 2. Single Vowel Letters - A, E, I, O, U
 
+### 2.1 Open Sound
 
-# 二、学习基础
-1 熟练掌握英语26个字母
+Open Sound  |  [ ā ]  |  [ ē ]  |  [ ī ]  |  [ ō ]  |  [ ū ]
+------|---------|---------|---------|---------|-----
+Example  |   nāme   |  mē     |   līke  |  nō    |  dūty
 
-2 学习过汉语拼音
+Note: The letter "e" at the end of a word is silent unless the word has only one syllable like "me".
 
-# 三、学习内容
-## 1. 26个字母
+【Pronunciation Practice】
 
-让我们一起来读一下26个字母。
-
-| A     | B     | C     | D     | E     | F     | G     |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| H     | I     | J     | K     | L     | M     | N     |
-| O     | P     | Q     |       | R     | S     | T     |
-| U     | V     | W     |       | X     | Y     | Z     |
-
-## 2. 五个元音字母——AEIOU
-
-先看看五个元音字母——a e i o u，大声跟读一下这五个字母，A E I O U，现在让我们在这五个元音字母头上标一横。
-
-
-|[ ā ]|	[ ē ]	|[ ī ]	|[ ō ]	|[ ū ]|
-|------|-------|--------|-------|-----|
-
-这一横表示什么意思呢？它和汉语拼音不一样，不是表示第一声，而是表示读“字母音”，“字母音”是什么意思？就是我们刚才读的音，字母音也叫作“开音”。
-
-|开音  |  [ ā ]  |  [ ē ]  |  [ ī ]  |  [ ō ]  |  [ ū ]|
-|------|---------|---------|---------|---------|-----|
-|举例  |   nāme   |  mē     |   līke  |  nō    |  dūty|
-
-	注：单词词尾的e字母不发音，如name，除非只有一个音节，如me。
-
-【课堂练习：拼读下面的单词】
-
-	开音练习：
 	cāpe nāme tāpe lāke gāme māke tāke hāte
 	mē bē fēte ēve wē
 	bīte fīve nīne kīte mīne nīce rīde sīde
 	rōse nōse rōpe nōte pōse hōme rōde
 	tūbe cūbe Jūne cūte hūge
+### 2.2 Closed Sound
 
-学了开音之后，再学习闭音。
+Closed Sound	|a	 |e	  |  i  |  o  | u
+----|----|----|-----|-----|-----
+Example	|bat |bed |hit  |dog  | but
 
-|闭音 |a	 |e  |  i  |  o  | u   |
-|----|----|----|-----|-----|-----|
-|举例 |bat |bed |hit |dog  | but|
+【Pronunciation Practice】
 
-这五个音不好学，反复读几遍。
-
-【课堂练习：拼读下面的单词】
-
-	闭音练习：
 	mat map bag cat hat fan bat apple
 	egg well red pen net hen bed bell
 	lick six bib pig pin kiss ink hill
 	ox on box sock hot not bot
 	sun cup bus nut gun
 
-## 3. 重新读一遍26个字母
+【Pronunciation Practice of 26 Letters】
 
+A a	|B b    |	C c |D d	|E e	| F f | G g 
+:----:|:-----:|:----:|:----:|:---:|:---:|:---:
+[ā] |[bē] |[sē]|[dē]	|[ē]	|[ef]	|[jē]
+H h|	I i	|J j	|K k	|L l	|M m| N n 
+[āch]	|[ī]|	[jā]	|[kā]	|[el]|	[em]	|[en]
+O o	|P p|	Q q	| | R r |	S s	|T t
+[ō]|	[pē]|	 [kū]	|  |	[àr]|	[es]	|[tē]
+U u	|V v|	W w	| |	X x	|Y y	|Z z
+[ū]	|[vē]|	[double-ū]	| |	[eks]	|[wī]	|[zē]
 
-|A	|B    |	C  |D	|E	| F |  G|
-|:----:|:-----:|:----:|:----:|:---:|:---:|:---:|
-|[ā] |[bē] |[sē]|[dē]	|[ē]	|[ef]	|[jē]|
-|H|	I	|J	|K	|L	|M|	N|
-|[āch]	|[ī]|	[jā]	|[kā]	|[el]|	[em]	|[en]|
-|O	|P|	Q	| |	R|	S	|T|
-|[ō]|	[pē]|	 [kū]	|  |	[àr]|	[es]	|[tē]|
-|U	|V|	W	| |	X	|Y	|Z|
-|[ū]	|[vē]|	[double-ū]	| |	[eks]	|[wī]	|[zē]|
+### 2.3 Soft Sound
 
-读准26个字母的读音。
+Marked with a dot above, all pronounced as /i/.
 
-## 4. 26个字母中的辅音
+Soft Sound	|[a̍ ]	|[ė]|	[i]|	—|	—
+----|-----|------|------|-----|----
+Example|	ima̍ge|	bėgin|	lily|	—	|—
 
-现在让我们把上面的表变一下，跟老师读一遍。/ e̊ / 和汉语拼音的 e 读音相似，在上面加一个小圆圈表示。
+### 2.4 Weak Sound
 
+Marked with a circle above, all pronounced as /e̊/.
 
-| A     | B     | C     | D     | E     | F     | G     |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|       | [be̊ ] |       | [de̊ ] |       | [fe̊ ] |  [ge̊]  |
-| H     | I     | J     | K     | L     | M     | N     |
-| [he̊ ] |       | [je̊ ] | [ke̊ ] | [le̊ ] | [me̊ ] | [ne̊ ]  |
-| O     | P     | Q     |       | R     | S     | T     |
-|       | [pe̊ ] |       |       | [re̊ ] | [se̊ ] | [te̊ ] |
-| U     | V     | W     |       | X     | Y     | Z     |
-|       | [ve̊ ] | [we̊ ] |       |       | [ye̊ ] | [ze̊ ] |
+Weak Sound	|[å]|	[e̊ ]	|[i̊ ]	|[o̊ ]|	[ů]
+---|-----|---------|-------|------|--
+Example|	åbout|	ope̊n	|evi̊l	|pro̊pel	|sůpply
 
-注：第一遍将/ e̊ /读重一点，清晰一点，然后将/ e̊ /读弱一点，甚至不读。（通过该部分学习，可以掌握大部分的辅音发音）
+## 3. Combinations of Two Vowel Letters
 
-## 5. 轻音和弱音
+The vowel letter with a horizontal line above is pronounced in its open sound.
 
-前面学了开音和闭音，接下来，再学两个简单的，一个叫轻音，的个叫弱音。
+   .   |-A	|-E	|-I	|-O	|-U
+------|-----|---|---|---|--------
+	A-    |     |   |āi	|	|**ãu**
+E-    | ēa  |ēe |ēi |   | eū
+I-    |     |iē |   |   |
+O-    |ōa   |   |**oi** |**oo** |ōu
+U-    |     |   |ūi |   |
 
-轻音在上方加一点，全部读作 / i /
+Note: oi, oo, au need to be memorized separately as they don't follow the regular rules.
 
-|轻音 |[a̍ ]|[ė]|	[i]|	—|	—|
-|----|-----|------|------|-----|----|
-|举例|	ima̍ge|	bėgin|	lily|	— |—|
-
-弱音在上方加一个圈，全部读作 / e̊  /
-
-|弱音	|[å]|	[e̊ ]	|[i̊ ]	|[o̊ ]|	[ů]|
-|---|-----|---------|-------|------|----|
-|举例|	åbout|	ope̊n	|evi̊l	|pro̊pel	|sůpply|
-
-## 6. 元音组合发音
-
-前面学习了单个元音字母的读法，但是，两个元音字母组合在一起，怎么读呢？
-
-大多数情况都读其中一个元音字母的字母音，如果读第一个字母的字母音，就在前面一个字母上方标一横，如果读第二个字母的字母音，就在后面一个字母上方标一横。
-
-但是，oi   oo   au   既不按前面一个字母读，也不按后面一个字母读，要单独记忆。
-
-
-|  .   |-A   |-E |-I |-O |-U |
-|------|-----|---|---|---|---|
-|A-    |     |   |āi |	 |ãu |
-|E-    | ēa  |ēe |ēi |   |eū |
-|I-    |     |iē |   |   |   |
-|O-    |ōa   |   |oi |oo |ōu |
-|U-    |     |   |ūi |   |   |
-
-	《元音组合助记歌》
-	Rāin pãuse, sēe sēa  雨停了，看见大海
-	Tōast food, but void sōul，烤食物，心不在焉
-	A piēce of frūit under Eūrop cēiling.一片水果，欧洲的天花板。
-
-	助记：雨停了，窗外能看见大海，我在烤食物，但心不在焉，想着欧洲进口天花板下面的一片水果。
-
-
-【课堂练习：拼读下面的单词】
+【Pronunciation Practice】
 
 	AI: tāil rāin pāint pāin jāil rāil nāil
 	AU: sãuse sãusa̍ge nãughty̍ ãutůmn
@@ -160,72 +96,48 @@
 	OU: thōugh sōul shōulde̊r mōuld
 	UI: sūit jūice frūit
 
-## 7. 有多种发音的元音
+## 4. Vowels with Multiple Pronunciations
 
-汉字有多音字，英语字母也有“多音字”，熟记这些多音组合。
+   .    |Multiple Sounds	| Example 
+--------|-------|-----
+	ea	|[ēa]   |	mēat
+     ea   |[eā]	|greāt
+      ea  |[èa]|	brèad
+	ei|	[ēi]	|cēiling
+	 ei   |[èi]|	vèil
+	o	|[ô]	|	sôme
+	 o   |[õ]	|	shõe
+	ou	|[ōu]|	sōul
+	 ou  |[oū]	|groūp
+	ou   |[òu]	|clòud
+	 ou  |[ôu]|	dôuble
+	oo	|[oo]|	cool
+	 oo  |[oo(d)],[oo(k)]|	good, book
+	 oo  |[ôo]	|blôody
 
-
-|   .    |多音	|例词|
-|--------|-------|-----|
-|ea     |  [ēa]  | mēat|
-|.      |[eā]    |greāt|
-|.      |[èa]    | brèad|
-|ei     |[ēi]   |cēiling|
-|.      |[èi]   | vèil|
-|o      |[ô] | sôme|
-|.      |[õ]    |  shõe|
-|ou     |[ōu]|	sōul|
-|.      |[oū]    |groūp|
-|.      |[òu]    |clòud|
-|.      |[ôu]    |  dôuble|
-|oo     |[oo]    |  cool|
-|.      |[oo(d)],[oo(k)]|  good, book|
-|.      |[ôo]    |blôody|
-
-	《多音字母助记歌》
-	Mēat and brèad, greāt! 肉，面包，相当棒；
-	Cēiling vèil sôme shõe. 天花板下藏着一些鞋子；
-	Sōul groūp, Dôuble clòud, 心灵组，双层云；
-	Cool, blôody good books. 酷，超级好书。
-
-	助记：早餐有肉有面包相当棒；天花板下藏着一些鞋子；《心灵组》、《双层云》，酷，都是超级好书
-
-【课堂练习：拼读下面的单词】
+【Pronunciation Practice】
 
 	brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavy̍
 	breāk greāt greātly steāk weār peār beār
 	book cook good foot look hook
 
-## 8. I和U的替身
+## 5. Substitutes of I and U
 
-I字母和U字母平时工作大忙了，所以，它们都给自已找了一个小跟帮。
-
-I字母找来Y字母作为小跟帮；
-U字母找来W字母作为小跟帮。
-
-
-|   .       |  原符号   | 替代符号  |    例词 |
-|----------|----------|----------|-----------|
-|i  ——>  y |   [ ī ]  |   [ȳ]	|     flȳ|
-|.         |   [i]     |   [y̍ ] |     lily̍|
-|ai  ——>  ay|   [āi]    |   [āy]|     sāy|
-|ei  ——>  ey|   [ēi]    |   [ēy] |     kēy|
-|.          |   [èi]    |   [èy] |    thèy|
-|au  ——>  aw|   [ãu]    |   [ãw] |     lãw|
-|eu  ——>  ew|    [eū]   |   [ew̄] |    new̄|
-|ou  ——>  ow|    [ōu]   |   [ōw] |    slōw|
-|.          |    [òu]   |   [òw] |    còw|
-|oi  ——>  oy|    [oi]   |   [oy̍] |    boy̍|
+   .      | Original | Substitute | Example 
+----------|----------|----------|-----------
+	i  ——>  y	|[ ī ]	|[ȳ]	|	flȳ
+	 i  ——>  y |   [i]	|	[y̍ ]|	lily̍
+	ai  ——>  ay|	[āi]|	[āy]	|sāy
+	ei  ——>  ey|	[ēi]|	[ēy]|	kēy
+	 ei  ——>  ey |[èi]|	[èy]|	thèy
+	au  ——>  aw|	[ãu]|	[ãw]|	lãw
+	eu  ——>  ew|	[eū]|	[ew̄ ]|	new̄
+	ou  ——>  ow|	[ōu]|	[ōw]|	slōw
+	 ou  ——>  ow |[òu]|	[òw]|	còw
+	oi  ——>  oy|	[oi]	|[oy̍ ]|	boy̍
 
 
-	《替身字母歌》
-	Lily̍ flȳing,  莉莉飞起来了
-	Thèy sāy, kēy! new̄ lãw, slōw, còwboy̍
-	他们说，钥匙，新法律，慢点，牛仔
-
-	助记：莉莉又飙飞车了，他们说，交出钥匙，出了新的交通法规，以后慢点开，牛仔。
-
-【课堂练习：拼读下面的单词】
+【Pronunciation Practice】
 
 	AY: bāy rāy wāy sāy hāy pāy Māy lāy
 	EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
@@ -234,35 +146,30 @@ U字母找来W字母作为小跟帮。
 	OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 	AW: pãw drãw sãw strãw strãwberry̍ lãwn
 
-## 9. 粘人的字母R
+## 6. Vowel Letters + R
 
-R字母就是一个粘人的小弟弟，它喜欢和五个元音哥哥粘在一起。
+### 6.1 Open Sound + R
+  Open Sound + R  |[ār]	|[ēr]	|[īr]	|[ōr]	|[ūr]
+--------|-------|-------|-------|--------|----------
+ Example |	cāre|	hēre|	fīre|	fōre	|dūre
 
-1 R字母和五个开音连在一起：（R字母使前面的元音发生轻微音变）
-
-|.    |[ār]	|[ēr]	|[īr]	|[ōr]	|[ūr]|
-|--------|-------|-------|-------|--------|----------|
-|  举例|	cāre|	hēre|	fīre|	fōre	|dūre|
-
-2 R字母和元音组合连在一起：（R字母使前面的元音发生轻微音变）
-
- .  |[āir]| [eār]|	[ēer] |[ ēar]	|[īr]	|[ōar] |[ōur]
+### 6.2 Vowel Combinations + R
+ Vowel Combinations + R |[āir]| [eār]|	[ēer] |[ ēar]	|[īr]	|[ōar] |[ōur]
 --------|-----|-------|--------|--------|-------|------|---------
-  举例|	hāir|  weār|	bēer | hēar	|	fīre	|bōar |	 fōur
+ Example |	hāir|  weār|	bēer | hēar	|	fīre	|bōar |	 fōur
 
-3 R字母和五个弱音连在一起：（R字母使前面的元音发生轻微音变）
-
-.  |[e̊r]	|[i̊r]	|[ůr]
+### 6.3 Weak Sound + R
+Weak Sound + R   |[e̊r]	|[i̊r]	|[ůr]
 ---------|------|-------|-----
-举例     |  be̊rg |  bi̊rd |bůrn
+ Example |	be̊rg|	bi̊rd	|bůrn
 
-4 其他
+### 6.4 Other Vowel + R
 
-.  |[àr]|	[or]=[ōr]
+ Other Vowel + R |[àr]| [or] = [ōr] 
 --------|-----|-------
-   举例|	càr	|	pork
+	 Example |	càr	| pork, cōre 
 
-【课堂练习：拼读下面的单词】
+【Pronunciation Practice】
 
 	AR: àrm càr càrd càrt fàrm pàrk gàrde̊n
 	ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
@@ -270,39 +177,37 @@ R字母就是一个粘人的小弟弟，它喜欢和五个元音哥哥粘在一�
 	UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
 	OR: porch pork horse horn fort morning corn fork
 
-## 10. 其余的辅音
+## 7. Other Consonants
 
-前面我们通过26个字母学习了很多辅音，现在让我们学习其余的辅音
-
-.     |	|	例词		|	备注
+.     |	IPS |	Example	| Remark 
 --------|----|-----------|-----------
-th|	[th]	|think	|   
-.     |[t̅h]	|t̅his	|   
-sh|	[sh]	|ship|   
-ch	|[c̅h]	|mac̅hine|  
-  .     |[ch]	|cheep|  
-tch	|[tch]	|catch|  		
-ng	|[ng]	|king|  	
-qu|	[kw]	|quick	|  
-x	|[ks]	|excess| 	x在词尾或后连辅音,有部分例外
-.   |[gz]	|exact|	x后连元音，有部分例外
-c	|[k]	|	can	|c在a,o,u,辅音字母前，词尾
-.   |[s]	|	cent|	c在e,i,y前
-g	|[g]	|	go	|g在a,o,u前。例外：finger, get, forget, together, begin, give, gift, girl, tiger
-.   |[j]	|orange	|在e, i, y前,词尾ge
-ph	|[f]|	photo	|  
+	th|	[th]	|think	|   
+	th     |[t̅h]	|t̅his	|   
+	sh|	[sh]	|ship|   
+	ch	|[c̅h]	|mac̅hine|  
+  ch   |[ch]	|cheep|  
+	tch	|[tch]	|catch| [tch] = [ch] 
+	ng	|[ng]	|king|  	
+	qu|	[kw]	|quick	|  
+	x	|[ks]	|excess| When at end or followed by consonant, except in some cases. 
+	x   |[gz]	|exact| When followed by a vowel, except in some cases. 
+	c	|[k]	|	can	|Before a, o, u, consonant letter or at the end.
+	c   |[s]	|	cent| Before e, i, y. 
+	g	|[g]	|	go	|Before a, o, u. Exceptions: finger, get, forget, together, begin, give, gift, girl, tiger.
+	g   |[j]	|orange	|Before e, i, y.
+	ph	|[f]|	photo	|  
 
-【课堂练习：拼读下面的单词】
+【Pronunciation Practice】
 
 	CH: bēach lunch chēese bench chůrch chickėn chāir cherry̍
 	SH: shēep shi̊rt ship fish dish
 	PH: phōtō elėphånt telėphōne trōphy̍ phàrmåcy̍ alphåbėt
-	TH: brôt̅he̊r fèat̅he̊r lèat̅he̊r fàt̅he̊r môt̅he̊r
+	TH: brôt͡he̊r fèat͡he̊r lèat͡he̊r fàt͡he̊r môt͡he̊r
 	TH: thumb thrēe bath thi̊rsty̍ thiēf mòuth tēeth
 
-## 11. 辅音组合
+## 8. Combinations of Consonant Letters
 
-熟读下面的辅音字母组合。
+Read the following consonant letter combinations fluently.
 
 	bl-, cl-, fl-,gl-, pl-,sl-
 	br-, cr-, fr-, gr-, pr-, tr-, dr-
@@ -310,7 +215,7 @@ ph	|[f]|	photo	|
 	scr-, spr-, str-, shr-, thr-, spl-
 	tw-
 
-【课堂练习：拼读下面的单词】
+【Pronunciation Practice】
 
 	BL: blūe black blòuse bloom blēach blank blonde
 	FL: flat flū flȳ flāme flūte floor flag flòwe̊r
@@ -333,6 +238,4 @@ ph	|[f]|	photo	|
 	SC: scàrf scoote̊r scanne̊r scāre scāle scoop
 	SK: skunk skȳ ski̊rt skāte
 
-# 四、参考资料
 
-[1] 詹先觉. 不一样的英语词汇书：音形意统一记忆法[M]. 上海交通大学出版社，2016.
