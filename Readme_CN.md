@@ -32,6 +32,10 @@
 
 ## IPS notation
 
+IPS标注和 国际音标（IPA symbol）是一一对应的，可以将单词的IPA，转换成IPS，也可以反过来。
+
+相比于IPA，IPS是根据单词的发音规则创造的，更可简洁明了，长期使用，在潜移默化中便能掌握单词发音规则，从而不再需要任何语音标注。
+
 | **IPA Symbol** | **IPS Notation**  | **Examples** |
 | -------------- | ------------- | ----------- |
 | /p/            | [p]                                                          | pen                                               |
@@ -39,12 +43,12 @@
 | /t/            | [t]                                                          | tab                                               |
 | /d/            | [d]                                                          | dog                                               |
 | /k/            | [k], [c], [ck]                                               | kid, cat, cob, cub, kick                          |
-| /g/            | [g]                                                          | gab, god, gun                                     |
+| /g/            | [g]                                     | gab, god, gun                                     |
 | /f/            | [f], [ph], [gh]                                              | fan, phōtō, tôugh                              |
 | /v/            | [v]                                                          | very̍                                            |
 | /s/            | [s], [c]                                                     | sad, cell, city̍, cȳbe̊r                       |
 | /z/            | [z], [s̍ ]                                                    | zoo, rīs̍e                                      |
-| /ð/            | [t͡h]                                                         | this                                              |
+| /ð/            | [t̅h]                                                      | t̅his                                            |
 | /θ/            | [th]                                                         | think                                             |
 | /m/            | [m]                                                          | map                                               |
 | /n/            | [n]                                                          | nap                                               |
@@ -54,22 +58,22 @@
 | /h/            | [h]                                                          | his                                               |
 | /w/            | [w]                                                          | wag                                               |
 | /j/            | [y]                                                          | yes                                               |
-| /ʃ/            | [sh], [c͡h]                                                   | ship, måchine                                    |
+| /ʃ/            | [sh], [c̅h]                                                | ship, måc̅hine                                  |
 | /ʒ/            | [s᷉]                                                          | vis᷉io̊n                                        |
 | /tʃ/           | [ch], [tch]                                                  | chat, catch                                       |
 | /dʒ/           | [j], [g], [dg]                                               | jump, gem, ginge̊r, gy̍m, judge                 |
 | /æ/            | [a]                                                          | bad                                               |
 | /e/            | [e] , [èa]                                                   | bed, hèad                                         |
-| /i/            | [i], [y̍], [ė], [ėy], [a̍ ]                                    | sit, prėtty̍, hônėy, dama̍ge                        |
+| /i/            | [i], [y̍], [ė], [ėy], [a̍ ], [u̍]                            | sit, prėtty̍, hônėy, dama̍ge, bu̍s̍y̍           |
 | /ɔ/            | [o]                                                          | hot                                               |
 | /ʌ/            | [u], [ô], [ôu], [ôo]                                         | but, lôve, ėnôugh, blôod                          |
 | /ei/           | [ā], [āi], [āy], [eā], [èy], [èi]                            | lāte, wāit, sāy, greāt, thèy, wèigh               |
 | /i:/           | [ē], [ēe], [ēa], [ēi], [ēy], [iē], [ĩ]                       | mē, mēet, mēan, rėcēive, kēy, bėliēf, po̊lĩce      |
 | /ai/           | [ī], [ȳ]                                                     | nīce, flȳ                                         |
 | /əu/           | [ō], [ōa], [ōw], [ōu]                                        | gō, rōad, slōw, thōugh                            |
-| /ju:/          | [ū], [ew̄], [eū]                                              | dūty, sūit, new̄, neūtrål                          |
+| /ju:/          | [ū], [ūi], [ew̄], [eū]                                        | dūty, sūit, new̄, neūtrål                          |
 | /u:/           | [(l/r)ū], [oū], [oo], [õ]                                    | trūe, groūp, tool, dõ                             |
-| /u/            | [oo(k)], [oo(d)], [short ū]                                 | good, look, pūll, pūsh                   |
+| /u/            | [oo(k)], [oo(d)], [ù]                                | good, look, pùll, pùsh                 |
 | /a:/           | [àr], [à]                                                    | dàrk, àsk                                         |
 | /au/           | [òu], [òw]                                                   | lòud, còw                                         |
 | /eə/           | [ār], [āir], [āer], [eār], [er]                              | cāre, fāir, āerāte, weār, there                  |
@@ -77,11 +81,7 @@
 | /aiə/          | [īr]                                                         | fīre                                              |
 | /ɔ:/           | [or], [ōr], [ōar], [ōur], [ōu(gh)], [ã(l)], [ãu], [ãw], [(w)ãr], | port, bōard, yōur, bōught, tãll, ãutho̊r, lãw, wãr |
 | /uə/           | [ūr]                                                         | dūring                                            |
-| /ə/            | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)]                             | ōpe̊n, åbòut, ēvi̊l, pro̊pel, sůpplȳ              |
-| /ə:/           | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur]            | he̊r, fi̊rst, wo̊rd, fůr, collår, le̊arn              |
+| /ə/            | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)]                             | ōpe̊n, åbòut, ēvi̊l, pro̊pel, sůpplȳ, fāmo̊us     |
+| /ə:/           | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur]            | he̊r, collår, fi̊rst, wo̊rd, fůr, le̊arn, hono̊ur, amåte̊ur |
 | /ɔi/           | [oi], [oy̍]                                                   | oil, boy̍                                          |
-
-
-
-
 
