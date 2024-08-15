@@ -22,6 +22,55 @@ Other vowels are marked by
 - Apostrophe ( ˋ ):     Variant sound.
 - Sharp      ( ^ ):     Pronouncing /˄/.
 
+| **IPA Symbol** | **IPS Notation**  | **Examples** |
+| -------------- | ------------- | ----------- |
+| /p/            | [p]                                                          | pen                                               |
+| /b/            | [b]                                                          | bed                                               |
+| /t/            | [t]                                                          | tab                                               |
+| /d/            | [d]                                                          | dog                                               |
+| /k/            | [k], [c], [ck]                                               | kid, cat, cob, cub, kick                          |
+| /g/            | [g]                                                          | gab, god, gun                                     |
+| /f/            | [f], [ph], [gh]                                              | fan, phōtō, tôugh                              |
+| /v/            | [v]                                                          | very̍                                            |
+| /s/            | [s], [c]                                                     | sad, cell, city̍, cȳbe̊r                       |
+| /z/            | [z], [s̍ ]                                                    | zoo, rīs̍e                                      |
+| /ð/            | [t͡h]                                                         | this                                              |
+| /θ/            | [th]                                                         | think                                             |
+| /m/            | [m]                                                          | map                                               |
+| /n/            | [n]                                                          | nap                                               |
+| /ŋ/            | [ng], [n(k)]                                                 | king, think                                       |
+| /l/            | [l]                                                          | līke                                             |
+| /r/            | [r]                                                          | red                                               |
+| /h/            | [h]                                                          | his                                               |
+| /w/            | [w]                                                          | wag                                               |
+| /j/            | [y]                                                          | yes                                               |
+| /ʃ/            | [sh], [c͡h]                                                   | ship, måchine                                    |
+| /ʒ/            | [s᷉]                                                          | vis᷉io̊n                                        |
+| /tʃ/           | [ch], [tch]                                                  | chat, catch                                       |
+| /dʒ/           | [j], [g], [dg]                                               | jump, gem, ginge̊r, gy̍m, judge                 |
+| /æ/            | [a]                                                          | bad                                               |
+| /e/            | [e] , [èa]                                                   | bed, hèad                                         |
+| /i/            | [i], [y̍], [ė], [ėy], [a̍ ]                                    | sit, prėtty̍, hônėy, dama̍ge                        |
+| /ɔ/            | [o]                                                          | hot                                               |
+| /ʌ/            | [u], [ô], [ôu], [ôo]                                         | but, lôve, ėnôugh, blôod                          |
+| /ei/           | [ā], [āi], [āy], [eā], [èy], [èi]                            | lāte, wāit, sāy, greāt, thèy, wèigh               |
+| /i:/           | [ē], [ēe], [ēa], [ēi], [ēy], [iē], [ĩ]                       | mē, mēet, mēan, rėcēive, kēy, bėliēf, po̊lĩce      |
+| /ai/           | [ī], [ȳ]                                                     | nīce, flȳ                                         |
+| /əu/           | [ō], [ōa], [ōw], [ōu]                                        | gō, rōad, slōw, thōugh                            |
+| /ju:/          | [ū], [ew̄], [eū]                                              | dūty, sūit, new̄, neūtrål                          |
+| /u:/           | [(l/r)ū], [oū], [oo], [õ]                                    | trūe, groūp, tool, dõ                             |
+| /u/            | [oo(k)], [oo(d)], [short ū]                                 | good, look, pūll, pūsh                   |
+| /a:/           | [àr], [à]                                                    | dàrk, àsk                                         |
+| /au/           | [òu], [òw]                                                   | lòud, còw                                         |
+| /eə/           | [ār], [āir], [āer], [eār], [er]                              | cāre, fāir, āerāte, weār, there                  |
+| /iə/           | [ēr], [ēer], [ēar],                                          | bēer, hēar, hēre                                  |
+| /aiə/          | [īr]                                                         | fīre                                              |
+| /ɔ:/           | [or], [ōr], [ōar], [ōur], [ōu(gh)], [ã(l)], [ãu], [ãw], [(w)ãr], | port, bōard, yōur, bōught, tãll, ãutho̊r, lãw, wãr |
+| /uə/           | [ūr]                                                         | dūring                                            |
+| /ə/            | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)]                             | ōpe̊n, åbòut, ēvi̊l, pro̊pel, sůpplȳ              |
+| /ə:/           | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur]            | he̊r, fi̊rst, wo̊rd, fůr, collår, le̊arn              |
+| /ɔi/           | [oi], [oy̍]                                                   | oil, boy̍                                          |
+
 ## Morphemic Division
 
 Unlike common syllable division, the morpheme division method uses symbols (-) to separate the prefixes, roots, infixes and suffixes of an English word based on word formation rules, better showing its internal structure.
