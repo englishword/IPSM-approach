@@ -1,6 +1,6 @@
 # 音形意统一记忆法    IPSM Approach
 
-音形意统一记忆法 IPSM Approach（Integrated Pronunciation, Spelling and Meaning Approach）是一种英语单词记忆法。音形意统一记忆法通过对英语单词进行音素标注与词素划分，将每个单词分离的读音（Pronunciation）、字形（Spelling）、意义（Meaning）关联在一起，使学习者在学习过程中逐渐掌握单词的发音规则及单词核心字母的含义，达到见词识音、见词识意，提高记单词的效果。
+音形意统一记忆法 IPSM Approach（**Integrated Pronunciation, Spelling and Meaning Approach**）是一种英语单词记忆法。音形意统一记忆法通过对英语单词进行音素标注与词素划分，将每个单词分离的读音（Pronunciation）、字形（Spelling）、意义（Meaning）关联在一起，使学习者在学习过程中逐渐掌握单词的发音规则及单词核心字母的含义，达到见词识音、见词识意，提高记单词的效果。
 
 记忆英语单词的过程实际上就是将单词的三个方面属性，读音（Pronunciation）、字形（Spelling）、意义（Meaning），关联在一起的过程。
 
@@ -26,7 +26,7 @@
 
 IPS标注和 国际音标（IPA symbol）是一一对应的，可以将单词的IPA，转换成IPS，也可以反过来。若你还未掌握IPA，不影响你学习IPS，若你已经掌握IPA，不仅能帮助你学习IPS，而且能让你再好地理解IPA。
 
-相比于IPA，IPS是根据单词的发音规则创造的，更可简洁明了，长期使用，在潜移默化中便能掌握单词发音规则，从而不再需要任何语音标注。
+相比于IPA，IPS是根据单词的发音规则创造的，更简洁明了，长期使用，在潜移默化中便能掌握单词发音规则，从而不再需要任何语音标注。
 
 | **IPA Symbol** | **IPS Notation**  | **Examples** |
 | :--------------: | ------------- | ----------- |
