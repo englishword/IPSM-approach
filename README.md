@@ -1,15 +1,27 @@
-# The Best Mnemonics and Notational System of English Words.
+# IPSM Approach
 
-How to use this brilliant method **Lingose Notation** (音形意统一记忆法 in Chinese) to study English?This is the best method for second language learners to study English words, no kidding. It will help your children master English in a short time.
+The IPSM Approach (Integrated Pronunciation, Spelling and Meaning Approach) is an English word memory technique. It links the pronunciation, spelling, and meaning of each English word by using phonetic notation and morpheme division. This enables learners to grasp the pronunciation rules and the core letter meanings within words progressively during the learning process. As a result, they can recognize a word by its pronunciation and understand its meaning upon seeing it, significantly improving the efficiency of memorizing words.
+In fact, memorizing an English word is essentially about connecting these three aspects of the word together.
 
-- Firstly, you can read this [first lesson](https://github.com/englishword/document/blob/master/first_lesson.md).
+The IPSM Approach consists of three key elements: IPS, ISM, and IPM. The IPS incorporates the pronunciation rules into the words through IPS notation. The ISM integrates the word formation rules into the words through morpheme division. The IPM is achieved by perceiving the inherent connection between phonemes and meanings.
 
-- If you get it, you can read this [30 essay](https://github.com/englishword/document/blob/master/30_essay.md).
+## IPS Notation
 
-- If you ask "Why it is the best?", you can get answer in here [lecture](https://github.com/englishword/lingose-notation/wiki).
+Integrated Pronunciation and Spelling (IPS) notation for phonemes, a direct notation system, mark above the vowel and a few consonant letters of words to indicate pronunciations without altering their spellings, being simpler than the International Phonetic Alphabet (IPA) and other respelling symbols.
 
-- Want to know more? you can read this book "[不一样的英语词汇书：音形意统一记忆法](https://isbnsearch.org/isbn/9787313156365 "詹先觉. 不一样的英语词汇书：音形意统一记忆法[M]. 上海交通大学出版社，2016.")"  ISBN: 978-7-313-15636-5
+The IPSM Approach categorizes the main vowel pronunciations of words from strong to weak into four rhythms: open syllables (marked with a horizontal line), closed syllables (unmarked), light syllables (marked with a dot), and weak syllables (marked with a circle).
 
-- Discuss in [Douban(豆瓣)](https://book.douban.com/subject/26899924/ "不一样的英语词汇书：音形意统一记忆法")
+Symbols above vowel letters or vowel combinations:
+- Line   ( — ):   Open diacritic   (pronouncing the opened sound, vowel's letter sound).
+- None   (   ):   Closed diacritic (pronouncing the closed sound).
+- Dot    ( . ):   Soft diacritic   (pronouncing /i/).
+- Circle ( 。):   Weak diacritic   (pronouncing /ə/).
+Other vowels are marked by 
+- Wave       ( ~ ):     Long vowel.
+- Apostrophe ( ˋ ):     Variant sound.
+- Sharp      ( ^ ):     Pronouncing /˄/.
 
-- Download [《不一样的英语词汇书：音形意统一记忆法》](https://github.com/englishword/lingose-notation/blob/master/%E3%80%8A%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B1%87%E4%B9%A6%20%E9%9F%B3%E5%BD%A2%E6%84%8F%E7%BB%9F%E4%B8%80%E8%AE%B0%E5%BF%86%E6%B3%95%E3%80%8B%20%E8%A9%B9%E5%85%88%E8%A7%89.pdf)
+## Morphemic Division
+
+Unlike common syllable division, the morpheme division method uses symbols (-) to separate the prefixes, roots, infixes and suffixes of an English word based on word formation rules, better showing its internal structure.
+
