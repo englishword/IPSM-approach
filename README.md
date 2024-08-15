@@ -1,6 +1,6 @@
 # IPSM Approach
 
-The IPSM Approach (Integrated Pronunciation, Spelling and Meaning Approach) is an English word memory technique. It links the pronunciation, spelling, and meaning of each English word by using phonetic notation and morpheme division. This enables learners to grasp the pronunciation rules and the core letter meanings within words progressively during the learning process. As a result, they can recognize a word by its pronunciation and understand its meaning upon seeing it, significantly improving the efficiency of memorizing words.
+The IPSM Approach (**Integrated Pronunciation, Spelling and Meaning Approach**) is an English word memory technique. It links the pronunciation, spelling, and meaning of each English word by using phonetic notation and morpheme division. This enables learners to grasp the pronunciation rules and the core letter meanings within words progressively during the learning process. As a result, they can recognize a word by its pronunciation and understand its meaning upon seeing it, significantly improving the efficiency of memorizing words.
 In fact, memorizing an English word is essentially about connecting these three aspects of the word together.
 
 The IPSM Approach consists of three key elements: IPS, ISM, and IPM. The IPS incorporates the pronunciation rules into the words through IPS notation. The ISM integrates the word formation rules into the words through morpheme division. The IPM is achieved by perceiving the inherent connection between phonemes and meanings.
