@@ -1,5 +1,7 @@
 <center><b><font size="5" color="black">IPS Notation of IPSM Approach<p></font></b></center>
 
+
+
 ## 1. 26 Letters
 
 A a	|B b    |	C c |D d	|E e	| F f | G g 
@@ -13,7 +15,7 @@ U u	|V v|	W w	| |	X x	|Y y	|Z z
 ### 2.1 Open Sound
 
 Open Sound  |  [ ā ]  |  [ ē ]  |  [ ī ]  |  [ ō ]  |  [ ū ]
-------|---------|---------|---------|---------|-----
+:----:|:-------:|:-------:|:-------:|:-------:|:---:
 Example  |   nāme   |  mē     |   līke  |  nō    |  dūty
 
 Note: The letter "e" at the end of a word is silent unless the word has only one syllable like "me".
@@ -28,7 +30,7 @@ Note: The letter "e" at the end of a word is silent unless the word has only one
 ### 2.2 Closed Sound
 
 Closed Sound	|a	 |e	  |  i  |  o  | u
-----|----|----|-----|-----|-----
+:--:|:--:|:--:|:---:|:---:|:---:
 Example	|bat |bed |hit  |dog  | but
 
 【Pronunciation Practice】
@@ -56,7 +58,7 @@ U u	|V v|	W w	| |	X x	|Y y	|Z z
 Marked with a dot above, all pronounced as /i/.
 
 Soft Sound	|[a̍ ]	|[ė]|	[i]|	—|	—
-----|-----|------|------|-----|----
+:--:|:---:|:----:|:----:|:---:|:--:
 Example|	ima̍ge|	bėgin|	lily|	—	|—
 
 ### 2.4 Weak Sound
@@ -64,16 +66,16 @@ Example|	ima̍ge|	bėgin|	lily|	—	|—
 Marked with a circle above, all pronounced as /e̊/.
 
 Weak Sound	|[å]|	[e̊ ]	|[i̊ ]	|[o̊ ]|	[ů]
----|-----|---------|-------|------|--
+:-:|:---:|:-------:|:-----:|:----:|:-:
 Example|	åbout|	ope̊n	|evi̊l	|pro̊pel	|sůpply
 
 ## 3. Combinations of Two Vowel Letters
 
 The vowel letter with a horizontal line above is pronounced in its open sound.
 
-   .   |-A	|-E	|-I	|-O	|-U
-------|-----|---|---|---|--------
-	A-    |     |   |āi	|	|**ãu**
+.   |-A	|-E	|-I	|-O	|-U
+:----:|:---:|:-:|:-:|:-:|:------:
+A-    |     |   |āi	|	|**ãu**
 E-    | ēa  |ēe |ēi |   | eū
 I-    |     |iē |   |   |
 O-    |ōa   |   |**oi** |**oo** |ōu
@@ -98,22 +100,22 @@ Note: oi, oo, au need to be memorized separately as they don't follow the regula
 
 ## 4. Vowels with Multiple Pronunciations
 
-   .    |Multiple Sounds	| Example 
---------|-------|-----
-	ea	|[ēa]   |	mēat
-     ea   |[eā]	|greāt
-      ea  |[èa]|	brèad
-	ei|	[ēi]	|cēiling
-	 ei   |[èi]|	vèil
-	o	|[ô]	|	sôme
-	 o   |[õ]	|	shõe
-	ou	|[ōu]|	sōul
-	 ou  |[oū]	|groūp
-	ou   |[òu]	|clòud
-	 ou  |[ôu]|	dôuble
-	oo	|[oo]|	cool
-	 oo  |[oo(d)],[oo(k)]|	good, book
-	 oo  |[ôo]	|blôody
+.    |Multiple Sounds	| Example 
+:------:|:-----:|:---:
+ea	|[ēa]   |	mēat
+ea   |[eā]	|greāt
+ea  |[èa]|	brèad
+ei|	[ēi]	|cēiling
+ei   |[èi]|	vèil
+o	|[ô]	|	sôme
+o   |[õ]	|	shõe
+ou	|[ōu]|	sōul
+ou  |[oū]	|groūp
+ou   |[òu]	|clòud
+ou  |[ôu]|	dôuble
+oo	|[oo]|	cool
+oo  |[oo(d)],[oo(k)]|	good, book
+oo  |[ôo]	|blôody
 
 【Pronunciation Practice】
 
@@ -123,18 +125,18 @@ Note: oi, oo, au need to be memorized separately as they don't follow the regula
 
 ## 5. Substitutes of I and U
 
-   .      | Original | Substitute | Example 
-----------|----------|----------|-----------
-	i  ——>  y	|[ ī ]	|[ȳ]	|	flȳ
-	 i  ——>  y |   [i]	|	[y̍ ]|	lily̍
-	ai  ——>  ay|	[āi]|	[āy]	|sāy
-	ei  ——>  ey|	[ēi]|	[ēy]|	kēy
-	 ei  ——>  ey |[èi]|	[èy]|	thèy
-	au  ——>  aw|	[ãu]|	[ãw]|	lãw
-	eu  ——>  ew|	[eū]|	[ew̄ ]|	new̄
-	ou  ——>  ow|	[ōu]|	[ōw]|	slōw
-	 ou  ——>  ow |[òu]|	[òw]|	còw
-	oi  ——>  oy|	[oi]	|[oy̍ ]|	boy̍
+.      | Original | Substitute | Example 
+:--------:|:--------:|:--------:|:---------:
+i  ——>  y	|[ ī ]	|[ȳ]	|	flȳ
+i  ——>  y |   [i]	|	[y̍ ]|	lily̍
+ai  ——>  ay|	[āi]|	[āy]	|sāy
+ei  ——>  ey|	[ēi]|	[ēy]|	kēy
+ei  ——>  ey |[èi]|	[èy]|	thèy
+au  ——>  aw|	[ãu]|	[ãw]|	lãw
+eu  ——>  ew|	[eū]|	[ew̄ ]|	new̄
+ou  ——>  ow|	[ōu]|	[ōw]|	slōw
+ou  ——>  ow |[òu]|	[òw]|	còw
+oi  ——>  oy|	[oi]	|[oy̍ ]|	boy̍
 
 
 【Pronunciation Practice】
@@ -149,25 +151,28 @@ Note: oi, oo, au need to be memorized separately as they don't follow the regula
 ## 6. Vowel Letters + R
 
 ### 6.1 Open Sound + R
-  Open Sound + R  |[ār]	|[ēr]	|[īr]	|[ōr]	|[ūr]
---------|-------|-------|-------|--------|----------
- Example |	cāre|	hēre|	fīre|	fōre	|dūre
+
+Open Sound + R  |[ār]	|[ēr]	|[īr]	|[ōr]	|[ūr]
+:------:|:-----:|:-----:|:-----:|:------:|:--------:
+Example |	cāre|	hēre|	fīre|	fōre	|dūre
 
 ### 6.2 Vowel Combinations + R
- Vowel Combinations + R |[āir]| [eār]|	[ēer] |[ ēar]	|[īr]	|[ōar] |[ōur]
---------|-----|-------|--------|--------|-------|------|---------
- Example |	hāir|  weār|	bēer | hēar	|	fīre	|bōar |	 fōur
+
+Vowel Combinations + R |[āir]| [eār]|	[ēer] |[ ēar]	|[īr]	|[ōar] |[ōur]
+:------:|:---:|:-----:|:------:|:------:|:-----:|:----:|:-------:
+Example |	hāir|  weār|	bēer | hēar	|	fīre	|bōar |	 fōur
 
 ### 6.3 Weak Sound + R
+
 Weak Sound + R   |[e̊r]	|[i̊r]	|[ůr]
----------|------|-------|-----
- Example |	be̊rg|	bi̊rd	|bůrn
+:-------:|:----:|:-----:|:---:
+Example |	be̊rg|	bi̊rd	|bůrn
 
 ### 6.4 Other Vowel + R
 
- Other Vowel + R |[àr]| [or] = [ōr] 
---------|-----|-------
-	 Example |	càr	| pork, cōre 
+Other Vowel + R |[àr]| [or] = [ōr] 
+:------:|:---:|:-----:
+Example |	càr	| pork, cōre 
 
 【Pronunciation Practice】
 
@@ -180,29 +185,29 @@ Weak Sound + R   |[e̊r]	|[i̊r]	|[ůr]
 ## 7. Other Consonants
 
 .     |	IPS |	Example	| Remark 
---------|----|-----------|-----------
-	th|	[th]	|think	|   
-	th     |[t̅h]	|t̅his	|   
-	sh|	[sh]	|ship|   
-	ch	|[c̅h]	|mac̅hine|  
-  ch   |[ch]	|cheep|  
-	tch	|[tch]	|catch| [tch] = [ch] 
-	ng	|[ng]	|king|  	
-	qu|	[kw]	|quick	|  
-	x	|[ks]	|excess| When at end or followed by consonant, except in some cases. 
-	x   |[gz]	|exact| When followed by a vowel, except in some cases. 
-	c	|[k]	|	can	|Before a, o, u, consonant letter or at the end.
-	c   |[s]	|	cent| Before e, i, y. 
-	g	|[g]	|	go	|Before a, o, u. Exceptions: finger, get, forget, together, begin, give, gift, girl, tiger.
-	g   |[j]	|orange	|Before e, i, y.
-	ph	|[f]|	photo	|  
+:------:|:--:|:---------:|-----------
+th|	[th]	|think	|
+th     |[t̅h]	|t̅his	|
+sh|	[sh]	|ship|
+ch	|[c̅h]	|mac̅hine|
+ch   |[ch]	|cheep|
+tch	|[tch]	|catch| [tch] = [ch] 
+ng	|[ng]	|king|
+qu|	[kw]	|quick	|
+x	|[ks]	|excess| When at end or followed by consonant, except in some cases. 
+x   |[gz]	|exact| When followed by a vowel, except in some cases. 
+c	|[k]	|	can	|Before a, o, u, consonant letter or at the end.
+c   |[s]	|	cent| Before e, i, y. 
+g	|[g]	|	go	|Before a, o, u. Exceptions: finger, get, forget, together, begin, give, gift, girl, tiger.
+g   |[j]	|orange	|Before e, i, y.
+ph	|[f]|	photo	|
 
 【Pronunciation Practice】
 
 	CH: bēach lunch chēese bench chůrch chickėn chāir cherry̍
 	SH: shēep shi̊rt ship fish dish
 	PH: phōtō elėphånt telėphōne trōphy̍ phàrmåcy̍ alphåbėt
-	TH: brôt͡he̊r fèat͡he̊r lèat͡he̊r fàt͡he̊r môt͡he̊r
+	TH: brôt̅he̊r fèat̅he̊r lèat̅he̊r fàt̅he̊r môt̅he̊r
 	TH: thumb thrēe bath thi̊rsty̍ thiēf mòuth tēeth
 
 ## 8. Combinations of Consonant Letters
