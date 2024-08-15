@@ -16,6 +16,7 @@ Symbols above vowel letters or vowel combinations:
 - None   (   ):   Closed diacritic (pronouncing the closed sound).
 - Dot    ( . ):   Soft diacritic   (pronouncing /i/).
 - Circle ( 。):   Weak diacritic   (pronouncing /ə/).
+
 Other vowels are marked by 
 - Wave       ( ~ ):     Long vowel.
 - Apostrophe ( ˋ ):     Variant sound.
