@@ -1,71 +1,71 @@
 书籍介绍:
-- [为了帮助朋友记单词，我写了一本书](https://github.com/englishword/lingose-notation/blob/master/lecture.md#为了帮助朋友记单词我写了一本书)
-- [《音、形、意统一记忆法》好在哪](https://github.com/englishword/lingose-notation/blob/master/lecture.md#音形意统一记忆法好在哪)
-- [《音、形、意统一记忆法》快速入门](https://github.com/englishword/lingose-notation/blob/master/lecture.md#音形意统一记忆法快速入门)
-- [“音形意统一记忆法”学习思路](https://github.com/englishword/lingose-notation/blob/master/lecture.md#音形意统一记忆法学习思路)
-- [“音形意统一记忆法”如何开展教学与自学](https://github.com/englishword/lingose-notation/blob/master/lecture.md#音形意统一记忆法如何开展教学与自学)
-- [如何最方便打出“音素”符号？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#如何最方便打出音素符号)
-- [书籍配套音频](https://github.com/englishword/lingose-notation/blob/master/lecture.md#书籍配套音频)
+- [为了帮助朋友记单词，我写了一本书](lecture.md#为了帮助朋友记单词我写了一本书)
+- [《音、形、意统一记忆法》好在哪](lecture.md#音形意统一记忆法好在哪)
+- [《音、形、意统一记忆法》快速入门](lecture.md#音形意统一记忆法快速入门)
+- [“音形意统一记忆法”学习思路](lecture.md#音形意统一记忆法学习思路)
+- [“音形意统一记忆法”如何开展教学与自学](lecture.md#音形意统一记忆法如何开展教学与自学)
+- [如何最方便打出“音素”符号？](lecture.md#如何最方便打出音素符号)
+- [书籍配套音频](lecture.md#书籍配套音频)
 
 精彩文章:
-- [一篇文章彻底教会你英语单词元音发音](https://github.com/englishword/lingose-notation/blob/master/lecture.md#一篇文章彻底教会你英语单词元音发音)
-- [要学好英语，首先要打通任督二脉](https://github.com/englishword/lingose-notation/blob/master/lecture.md#要学好英语首先要打通任督二脉)
-- [“音节划分”真的是脱裤子放屁吗？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#音节划分真的是脱裤子放屁吗)
-- [各种英语单词学习方法对比](https://github.com/englishword/lingose-notation/blob/master/lecture.md#各种英语单词学习方法对比)
-- [关于词汇书的一些你不得不知的真相](https://github.com/englishword/lingose-notation/blob/master/lecture.md#关于词汇书的一些你不得不知的真相)
-- [英语单词主要“重拼”符号汇总](https://github.com/englishword/lingose-notation/blob/master/lecture.md#英语单词主要重拼符号汇总)
-- [BBC Phonetic Respelling](https://github.com/englishword/lingose-notation/blob/master/lecture.md#bbc-phonetic-respelling)
-- [元音大推移The Great Vowel Shift](https://github.com/englishword/lingose-notation/blob/master/lecture.md#元音大推移the-great-vowel-shift)
-- [重音是英语单词的灵魂](https://github.com/englishword/lingose-notation/blob/master/lecture.md#重音是英语单词的灵魂)
-- [英语词汇的节奏](https://github.com/englishword/lingose-notation/blob/master/lecture.md#英语词汇的节奏)
-- [见词识音大法好！](https://github.com/englishword/lingose-notation/blob/master/lecture.md#见词识音大法好)
-- [看了这篇文章，英语少学十年](https://github.com/englishword/lingose-notation/blob/master/lecture.md#看了这篇文章英语少学十年)
-- [如何让英语听力在短期内一飞冲天](https://github.com/englishword/lingose-notation/blob/master/lecture.md#如何让英语听力在短期内一飞冲天)
-- [要学好英语，首先要打压“汉语中介”](https://github.com/englishword/lingose-notation/blob/master/lecture.md#要学好英语首先要打压汉语中介)
-- [如何听音知意？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#如何听音知意)
-- [以 “abandon” 为例，讲讲如何有效记单词](https://github.com/englishword/lingose-notation/blob/master/lecture.md#以abandon为例，讲讲如何有效记单词)
-- [为什么要读原著](https://github.com/englishword/lingose-notation/blob/master/lecture.md#为什么要读原著)
-- [英语单词如何“听音识意”](https://github.com/englishword/lingose-notation/blob/master/lecture.md#英语单词如何听音识意)
-- [《汉语拼音方案》没你想得那么简单](https://github.com/englishword/lingose-notation/blob/master/lecture.md#汉语拼音方案没你想得那么简单)
-- [如何培养英语快速阅读能力](https://github.com/englishword/lingose-notation/blob/master/lecture.md#如何培养英语快速阅读能力)
-- [如何不花一分钱就在5分钟翻译一本书](https://github.com/englishword/lingose-notation/blob/master/lecture.md#如何不花一分钱就在5分钟翻译一本书)
-- [李阳“疯狂英语”的成功与失败](https://github.com/englishword/lingose-notation/blob/master/lecture.md#李阳疯狂英语的成功与失败)
-- [我是怎么看待“艾宾浩斯遗忘曲线”的](https://github.com/englishword/lingose-notation/blob/master/lecture.md#我是怎么看待艾宾浩斯遗忘曲线的)
-- [我是怎么看待“记忆宫殿”的](https://github.com/englishword/lingose-notation/blob/master/lecture.md#我是怎么看待记忆宫殿的)
-- [为什么我要无情地打压英语词源学](https://github.com/englishword/lingose-notation/blob/master/lecture.md#为什么我要无情地打压英语词源学)
-- [我对“Phonics自然拼读法”的看法](https://github.com/englishword/lingose-notation/blob/master/lecture.md#我对Phonics自然拼读法的看法)
-- [Phonics自然拼读为什么不行？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#Phonics自然拼读为什么不行)
-- [别让一颗老鼠屎坏了一锅粥](https://github.com/englishword/lingose-notation/blob/master/lecture.md#别让一颗老鼠屎坏了一锅粥)
-- [我是怎么看待“联想记忆法”的](https://github.com/englishword/lingose-notation/blob/master/lecture.md#我是怎么看待联想记忆法的)
-- [说说“谐音联想记忆法”的脑回路](https://github.com/englishword/lingose-notation/blob/master/lecture.md#说说谐音联想记忆法的脑回路)
-- [说说“词根记忆法”脑回路](https://github.com/englishword/lingose-notation/blob/master/lecture.md#说说词根记忆法脑回路)
-- [我是怎么看待“国际音标（IPA）”的](https://github.com/englishword/lingose-notation/blob/master/lecture.md#我是怎么看待国际音标ipa的)
-- [《美国传统字典》是怎样对待单词读音的](https://github.com/englishword/lingose-notation/blob/master/lecture.md#美国传统字典是怎样对待单词读音的)
-- [再议“重拼法（respelling）”](https://github.com/englishword/lingose-notation/blob/master/lecture.md#再议重拼法respelling)
-- [谈谈《英语词汇的奥秘》和《英语读音的奥秘》这两本书](https://github.com/englishword/lingose-notation/blob/master/lecture.md#谈谈英语词汇的奥秘和英语读音的奥秘这两本书)
-- [为什么我不推荐《没有词是一座孤岛：溯源解义学单词》](https://github.com/englishword/lingose-notation/blob/master/lecture.md#为什么我不推荐没有词是一座孤岛溯源解义学单词)
-- [哭笑不得的《象形5000》《象形9000》](https://github.com/englishword/lingose-notation/blob/master/lecture.md#哭笑不得的象形5000象形9000)
-- [迷途的羔羊——张宇绰](https://github.com/englishword/lingose-notation/blob/master/lecture.md#迷途的羔羊张宇绰)
-- [谈谈“张思中英语教学法”](https://github.com/englishword/lingose-notation/blob/master/lecture.md#谈谈张思中英语教学法)
-- [SaypU: 一个失败的英语改革方案](https://github.com/englishword/lingose-notation/blob/master/lecture.md#saypu一个失败的英语改革方案)
-- [谈谈“福尼斯英语”是什么？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#谈谈福尼斯英语是什么)
-- [说说陈爱文的《英语见字知音法 》](https://github.com/englishword/lingose-notation/blob/master/lecture.md#说说陈爱文的英语见字知音法)
-- [可怜的日本人](https://github.com/englishword/lingose-notation/blob/master/lecture.md#可怜的日本人)
-- [整个法兰西都震怒了，但并没有什么卵用](https://github.com/englishword/lingose-notation/blob/master/lecture.md#整个法兰西都震怒了但并没有什么卵用)
-- [拓展阅读：《最后一课》的真相到底是什么？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#拓展阅读最后一课的真相到底是什么)
-- [语言是人类最得意的发明](https://github.com/englishword/lingose-notation/blob/master/lecture.md#语言是人类最得意的发明)
-- [语言是人类真正的信仰](https://github.com/englishword/lingose-notation/blob/master/lecture.md#语言是人类真正的信仰)
-- [为什么中国学生学不会英语？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#为什么中国学生学不会英语)
-- [为什么很多中国人说英语像往外“扔砖块”](https://github.com/englishword/lingose-notation/blob/master/lecture.md#为什么很多中国人说英语像往外扔砖块)
-- [喝一碗鱼汤，一下记住三个单词](https://github.com/englishword/lingose-notation/blob/master/lecture.md#喝一碗鱼汤一下记住三个单词)
+- [一篇文章彻底教会你英语单词元音发音](lecture.md#一篇文章彻底教会你英语单词元音发音)
+- [要学好英语，首先要打通任督二脉](lecture.md#要学好英语首先要打通任督二脉)
+- [“音节划分”真的是脱裤子放屁吗？](lecture.md#音节划分真的是脱裤子放屁吗)
+- [各种英语单词学习方法对比](lecture.md#各种英语单词学习方法对比)
+- [关于词汇书的一些你不得不知的真相](lecture.md#关于词汇书的一些你不得不知的真相)
+- [英语单词主要“重拼”符号汇总](lecture.md#英语单词主要重拼符号汇总)
+- [BBC Phonetic Respelling](lecture.md#bbc-phonetic-respelling)
+- [元音大推移The Great Vowel Shift](lecture.md#元音大推移the-great-vowel-shift)
+- [重音是英语单词的灵魂](lecture.md#重音是英语单词的灵魂)
+- [英语词汇的节奏](lecture.md#英语词汇的节奏)
+- [见词识音大法好！](lecture.md#见词识音大法好)
+- [看了这篇文章，英语少学十年](lecture.md#看了这篇文章英语少学十年)
+- [如何让英语听力在短期内一飞冲天](lecture.md#如何让英语听力在短期内一飞冲天)
+- [要学好英语，首先要打压“汉语中介”](lecture.md#要学好英语首先要打压汉语中介)
+- [如何听音知意？](lecture.md#如何听音知意)
+- [以 “abandon” 为例，讲讲如何有效记单词](lecture.md#以abandon为例，讲讲如何有效记单词)
+- [为什么要读原著](lecture.md#为什么要读原著)
+- [英语单词如何“听音识意”](lecture.md#英语单词如何听音识意)
+- [《汉语拼音方案》没你想得那么简单](lecture.md#汉语拼音方案没你想得那么简单)
+- [如何培养英语快速阅读能力](lecture.md#如何培养英语快速阅读能力)
+- [如何不花一分钱就在5分钟翻译一本书](lecture.md#如何不花一分钱就在5分钟翻译一本书)
+- [李阳“疯狂英语”的成功与失败](lecture.md#李阳疯狂英语的成功与失败)
+- [我是怎么看待“艾宾浩斯遗忘曲线”的](lecture.md#我是怎么看待艾宾浩斯遗忘曲线的)
+- [我是怎么看待“记忆宫殿”的](lecture.md#我是怎么看待记忆宫殿的)
+- [为什么我要无情地打压英语词源学](lecture.md#为什么我要无情地打压英语词源学)
+- [我对“Phonics自然拼读法”的看法](lecture.md#我对Phonics自然拼读法的看法)
+- [Phonics自然拼读为什么不行？](lecture.md#Phonics自然拼读为什么不行)
+- [别让一颗老鼠屎坏了一锅粥](lecture.md#别让一颗老鼠屎坏了一锅粥)
+- [我是怎么看待“联想记忆法”的](lecture.md#我是怎么看待联想记忆法的)
+- [说说“谐音联想记忆法”的脑回路](lecture.md#说说谐音联想记忆法的脑回路)
+- [说说“词根记忆法”脑回路](lecture.md#说说词根记忆法脑回路)
+- [我是怎么看待“国际音标（IPA）”的](lecture.md#我是怎么看待国际音标ipa的)
+- [《美国传统字典》是怎样对待单词读音的](lecture.md#美国传统字典是怎样对待单词读音的)
+- [再议“重拼法（respelling）”](lecture.md#再议重拼法respelling)
+- [谈谈《英语词汇的奥秘》和《英语读音的奥秘》这两本书](lecture.md#谈谈英语词汇的奥秘和英语读音的奥秘这两本书)
+- [为什么我不推荐《没有词是一座孤岛：溯源解义学单词》](lecture.md#为什么我不推荐没有词是一座孤岛溯源解义学单词)
+- [哭笑不得的《象形5000》《象形9000》](lecture.md#哭笑不得的象形5000象形9000)
+- [迷途的羔羊——张宇绰](lecture.md#迷途的羔羊张宇绰)
+- [谈谈“张思中英语教学法”](lecture.md#谈谈张思中英语教学法)
+- [SaypU: 一个失败的英语改革方案](lecture.md#saypu一个失败的英语改革方案)
+- [谈谈“福尼斯英语”是什么？](lecture.md#谈谈福尼斯英语是什么)
+- [说说陈爱文的《英语见字知音法 》](lecture.md#说说陈爱文的英语见字知音法)
+- [可怜的日本人](lecture.md#可怜的日本人)
+- [整个法兰西都震怒了，但并没有什么卵用](lecture.md#整个法兰西都震怒了但并没有什么卵用)
+- [拓展阅读：《最后一课》的真相到底是什么？](lecture.md#拓展阅读最后一课的真相到底是什么)
+- [语言是人类最得意的发明](lecture.md#语言是人类最得意的发明)
+- [语言是人类真正的信仰](lecture.md#语言是人类真正的信仰)
+- [为什么中国学生学不会英语？](lecture.md#为什么中国学生学不会英语)
+- [为什么很多中国人说英语像往外“扔砖块”](lecture.md#为什么很多中国人说英语像往外扔砖块)
+- [喝一碗鱼汤，一下记住三个单词](lecture.md#喝一碗鱼汤一下记住三个单词)
 
 汉语相关
-- [论汉字是一种“拼形文字”](https://github.com/englishword/lingose-notation/blob/master/lecture.md#论汉字是一种拼形文字)
-- [汉字是一门玄学](https://github.com/englishword/lingose-notation/blob/master/lecture.md#汉字是一门玄学)
-- [风水输入法](https://github.com/englishword/lingose-notation/blob/master/lecture.md#风水输入法)
-- [汉语词汇与英语词汇编码对比](https://github.com/englishword/lingose-notation/blob/master/lecture.md#汉语词汇与英语词汇编码对比)
-- [假如汉语真的拼音化了会怎样？](https://github.com/englishword/lingose-notation/blob/master/lecture.md#假如汉语真的拼音化了会怎样)
-- [汉字简化百年历程](https://github.com/englishword/lingose-notation/blob/master/lecture.md#汉字简化百年历程)
+- [论汉字是一种“拼形文字”](lecture.md#论汉字是一种拼形文字)
+- [汉字是一门玄学](lecture.md#汉字是一门玄学)
+- [风水输入法](lecture.md#风水输入法)
+- [汉语词汇与英语词汇编码对比](lecture.md#汉语词汇与英语词汇编码对比)
+- [假如汉语真的拼音化了会怎样？](lecture.md#假如汉语真的拼音化了会怎样)
+- [汉字简化百年历程](lecture.md#汉字简化百年历程)
 
 # 书籍介绍:
 
@@ -99,7 +99,7 @@
 
 好吧，既然他不看，我只好把这本书出版出来，等待有缘人，也许将来他孩子会看。
 
-![PSM](https://github.com/englishword/lingose-notation/blob/master/img/PSM.png)
+![PSM](img/PSM.png)
 
 
 ## 《音、形、意统一记忆法》好在哪
@@ -471,7 +471,7 @@ SK: skunk skȳ ski̊rt skāte
 
 ## “音形意统一记忆法”学习思路
 
-![pyramids-of-egypt](https://github.com/englishword/lingose-notation/blob/master/img/pyramids-of-egypt.jpg)
+![pyramids-of-egypt](img/pyramids-of-egypt.jpg)
 
 人类的知识体系就像一座座金字塔，底下的一层知识是为了支撑上面的一层知识，越往上知识越少越抽象，最顶尖的知识只用一句话就可以概括了。
 
@@ -533,7 +533,7 @@ SK: skunk skȳ ski̊rt skāte
 
 该怎么学习这本书呢？
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB495.jpg) 
+![img](img/wpsB495.jpg) 
 
 > ①26个字母<——>字形：26个字母是怎么写的；
 > ②26个字母<——>读音：26个字母是怎么读的；
@@ -568,11 +568,11 @@ SK: skunk skȳ ski̊rt skāte
 
 **第一种：用微软自带的“专用字符编辑程序”。**（“开始”—“附件”—“系统工具”—“专用字符编辑程序”）
 
-![fh1](https://github.com/englishword/lingose-notation/blob/master/img/fh1.jpg)
+![fh1](img/fh1.jpg)
 
 **第二种：下载安装FontCreator软件。**
 
-![fh2](https://github.com/englishword/lingose-notation/blob/master/img/fh2.jpg)
+![fh2](img/fh2.jpg)
 
 如果说“专用字符编辑程序”相当于“画图”，则FontCreator就相当于Photoshop。至于这两个软件怎么用，可以google一下，网上有很多详细的教程。如果你想建个人字库，FontCreator绝对是神器。
 
@@ -584,7 +584,7 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 打开word软件，**“插入”——“符号”——“其他符号”**可以看到这些符号，但是有些符号却找不到，比如可以找到å，但找不到e̊，不过这个棘手的问题也能解决。
 
-![fh3](https://github.com/englishword/lingose-notation/blob/master/img/fh3.jpg)
+![fh3](img/fh3.jpg)
 
 所有符号如下：
 
@@ -605,11 +605,11 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 以“搜狗输入法”为例，其他输入法类似。右键**“属性设置”——“高级”——“自定义短语设置”**，如下：
 
-![fh4](https://github.com/englishword/lingose-notation/blob/master/img/fh4.jpg)
+![fh4](img/fh4.jpg)
 
 点击**“直接编辑配置文件”**
 
-![fh5](https://github.com/englishword/lingose-notation/blob/master/img/fh5.jpg)
+![fh5](img/fh5.jpg)
 
 将下面内容复制到记事本文件最后，**“保存”后“确定”**。
 
@@ -676,15 +676,15 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 看看效果，当输入va时，就会出现下面这些字符。输入vva时，就会出现å。
 
-![fh6](https://github.com/englishword/lingose-notation/blob/master/img/fh6.jpg)
+![fh6](img/fh6.jpg)
 
 理论上，如果建一个字库，可以做到输入vmeet，出现mēet
 
-![fh7](https://github.com/englishword/lingose-notation/blob/master/img/fh7.jpg)
+![fh7](img/fh7.jpg)
 
 或者输入meet，出现mēet
 
-![fh8](https://github.com/englishword/lingose-notation/blob/master/img/fh8.jpg)
+![fh8](img/fh8.jpg)
 
 试试应用在英语文章上，看看效果，Pe̊rfėct！
 
@@ -707,27 +707,27 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 一、在电脑上输入，https://dict.eudic.net/account/login  注册一个账号，按照下图所示，将文件夹中的26个文件逐个导入到“我的生词本”。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB496.jpg)
+![img](img/wpsB496.jpg)
 
 二、手机下载“欧路词典”
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB497.png)
+![img](img/wpsB497.png)
 
  三、用前面注册的账号登录APP，如下图
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB498.png)
+![img](img/wpsB498.png)
 
  四、点击“生词笔记”，后点击“在线同步”
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB499.png)
+![img](img/wpsB499.png)
 
  五、点击顶部“我的生词本”，可以看到前面导入的生词列表。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4AA.png)
+![img](img/wpsB4AA.png)
 
 六、点击单词前面的小喇叭，就可以听单词音频了。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4AB.png)
+![img](img/wpsB4AB.png)
 
 # 精彩文章:
 
@@ -741,19 +741,19 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 下图是国际音标中的元音发音图，这张图随处可见（图中有很多从来没见过的符号，这些从来没见过的符号在其他语言中可能会用到，但在英语中用不到，所以不用管它）。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4AC.jpg)
+![img](img/wpsB4AC.jpg)
 
  这张图是什么意思呢？简单地说就是元音发音时的舌头在口腔中的位置。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4AD.png)
+![img](img/wpsB4AD.png)
 
 现在，先将用不到的符号去除，留下用得到的符号。如下图，一个用DJ音标表示，另一个用KK音标表示。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4AE.png)
+![img](img/wpsB4AE.png)
 
  
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4BE.png)
+![img](img/wpsB4BE.png)
 
 学习这张图，要掌握两个要领，一个是开闭，另一个是前后。
 
@@ -778,7 +778,7 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 <http://soundsofspeech.uiowa.edu/english/english.html>
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4BF.png)
+![img](img/wpsB4BF.png)
 
 ## 要学好英语，首先要打通任督二脉
 
@@ -892,7 +892,7 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 对于英语单词的划分一直以来都有两条路线之争，一条路线是“音节划分”，另一条路线是“词素划分”。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4DF.jpg) 
+![img](img/wpsB4DF.jpg) 
 
 为什么会有这样的路线之争，原因就在于看问题的角度。如果站在“音”的角度看待这个问题，那么，英语单词要根据音节来划分，根据音节划分，才方便拼读单词的读音。如果站在“意”的角度看待这个问题，那么，英语单词要根据词素来划分，根据词素划分，才方便理解单词的意义。也就是说英语单词划分问题的本质是： “ 音 ” 或 “ 意 ” ，对 “ 形 ” 解构的问题。
 
@@ -975,7 +975,7 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 从0分到5分，0分为最低分，相当于完全没有，5分为最高分。以下的评分表不是很精确，但是大差不差。
 
-![dbb](https://github.com/englishword/lingose-notation/blob/master/img/dbb.png)
+![dbb](img/dbb.png)
 
 我捡几个主要的参数说说，其他的就不一一说了。
 
@@ -1015,13 +1015,13 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 ## 英语单词主要“重拼”符号汇总
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4E0.png) 
+![img](img/wpsB4E0.png) 
 
 历史上，重拼法符号很多，Wikipedia上有人对主流词典以及网站上所用过的符号做了汇总。
 
 英语长期被音形不统一所困扰，人们认为这导致了英语难学，文盲率高。一直以来围扰着如何解决英语单词发音问题争论不休。为此，人们创造了很多解释英语单词发音的符号。但是，奇怪的时，最后却是国际音标（IPA）得到更普遍的应用，从下表的对比中可以看出，IPA的符号实在是不怎么样，属于最差的符号之一。IPA委员会对语音很有研究，但他们对符号学了解得实在是太肤浅。中国恰恰选了一个最差的。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4E1.png) 
+![img](img/wpsB4E1.png) 
 
 （点击看大图）
 
@@ -1078,7 +1078,7 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 上回推荐大家学习BBC重拼符号，因为BBC的符号可以由键盘直接输入，在打字时代是一个极大的优势。我对BBC的符号与国际音标IPA的符号列了一个对比表，方便大家学习。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4E2.jpg) 
+![img](img/wpsB4E2.jpg) 
 
 ## 元音大推移The Great Vowel Shift
 
@@ -1086,7 +1086,7 @@ ANSI是ASCII码字符集，里面的字符很少。因此必须用Unicode字符�
 
 下图就是所谓的“元音大推移“的具体变化图，从图中可以看出，不是一两个元音发生了变化，绝大多数元音都发生了变化。这种变化好比是四川话和普通话的区别，虽然发生了很大的变化，但还没到完全听不懂的程度。英语元音变化很大，但是和中国推行普通话的变革相比，还是差了几个等级，因为普通话不仅元音变化，辅音也发生变化，众多方言在普通话面前分崩离析。所以英语的变化只能叫Great Swift，将来写历史，汉语的变化可以叫Great Revolution。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4F3.png) 
+![img](img/wpsB4F3.png) 
 
 元音大推移发生的确切原因和它惊人的速度一直是英语语言学和文化史上的未解之谜。有人认为是由于“黑死病后英格兰东南部大量涌入的移民，各种方言的人群汇聚于在一起，出于交流的需要人们不得不调整各自的发音习惯，中间的调和型的发音在伦敦发展起来并逐渐成为规范继而向各地扩散。” 总之，就是不同口音的人汇集后不断交流最后形成的。英语能成为世界语，和这段历史关系很大。
 
@@ -1436,11 +1436,11 @@ Gr**ea**th**ar**dw**ar**eisp**ow**eredb**y**gr**ea**ts**o**ftw**ar**e**A**ndab**
 
 从英语单词的编码图可以看出，意义是一步步地往字母、音素、词素、单词上添加的。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4F4.png) 
+![img](img/wpsB4F4.png) 
 
 而不是将“汉语意思”一次性强加到单词上，所以要做到从字面上对单词见词识意，就要分别从字母、音素、词素、单词这四个方面同时入手，层层深入，步步瓦解，最后将四个方面综合起来，便形成了单词最完整、最正确的意义。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4F5.png) 
+![img](img/wpsB4F5.png) 
 
 “音形意统一记忆法”所谓的“见词识意”，并不是指准确地说出单词的汉语意思，而是指单词的模糊意。这种模糊意，越过了汉语，直达单词的本质内涵，是一种更加科学，快速的意义，它适用于母语为任何语言的人学习掌握。
 
@@ -1464,7 +1464,7 @@ Gr**ea**th**ar**dw**ar**eisp**ow**eredb**y**gr**ea**ts**o**ftw**ar**e**A**ndab**
 
 ## 如何听音知意？
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB4F6.png) 
+![img](img/wpsB4F6.png) 
 
 英语单词“音形意统一记忆法”转换三角中，“音至形”这一条边，通过由“元音”和“辅音”构成的语音法则可以完全描述，不存在任何问题。
 
@@ -1669,7 +1669,7 @@ Gr**ea**th**ar**dw**ar**eisp**ow**eredb**y**gr**ea**ts**o**ftw**ar**e**A**ndab**
 
 汉语有非常多的地方方言。下图所示为汉语的音形意系统，形和意只有一个，但音有非常多种，不同的音之间几乎无法相互听懂。
 
-![汉语音形意系统](https://github.com/englishword/lingose-notation/blob/master/img/汉语音形意系统.png)
+![汉语音形意系统](img/汉语音形意系统.png)
 
 那么问题来了，操不同方言的两个人要相互交流该怎么办？
 
@@ -1743,11 +1743,11 @@ entertainment  只需要抓住大写的三个字母（EnterTainMent），熟练�
 
 别人看你是这样的。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB507.png)
+![img](img/wpsB507.png)
 
 你看你自己是这样的。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB508.png)
+![img](img/wpsB508.png)
 
 ## 如何不花一分钱就在5分钟翻译一本书
 
@@ -1782,7 +1782,7 @@ entertainment  只需要抓住大写的三个字母（EnterTainMent），熟练�
 
 李阳从最开始仿佛从地底下一下子冒出来，出现在所有人面前，电视、报纸、杂志大篇幅地报道，有头脑的人都知道这些都是要花很多钱的，都要各种运作，各种推动。其中最吸引人眼球的就是他在故宫现场的表现。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB509.png) 
+![img](img/wpsB509.png) 
 
 > 李阳：来，大家跟我一起喊——WE ARE THE NUMBER ONE.
 >
@@ -1923,7 +1923,7 @@ entertainment  只需要抓住大写的三个字母（EnterTainMent），熟练�
 
 当然，上面我举的小例子，在空间结构上跟记忆宫殿还是差得很远，有太多可以优化的地方，但原理是一样的。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB529.png) 
+![img](img/wpsB529.png) 
 
 在众人面前耍起来，别人真以为你过目不忘，但是，你自己知道，杂耍而已，你看到的是我3分钟记住一副扑克牌，没看到我练了三个月，“台上一分钟，台下十年功”。用“记忆宫殿”表演魔术，当间谍、特工是可以的，若要用来做别的事情，有可能成为天才，也有可能成为傻瓜，要不你可以亲自试试？黄药师的老婆为了过目不忘强记整本《九阴真经》，心力交瘁，最后活活把自己累死。记忆力越好是不是就越聪明？往往不是，有我看来，归纳总结能力更关键。可能在表面上，过目不忘感觉很历害，但在我看来，他可能已经毁了。看过电影《雨人》吗？过目不忘的自闭症哥哥实际上是一个天生有大脑缺陷的人。
 
@@ -2126,7 +2126,7 @@ Phonics学习法在国内也叫“自然拼读法”，从它的介绍来看，�
 
 就是下面这张图，它的内核是“汉语”，这套方法只针对母语是汉语的人，对其他母语的人不管用。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB52A.png) 
+![img](img/wpsB52A.png) 
 
 这种方法诡异之处还在于，他最后还要求学习者：“记住后，请忘掉汉语。”
 
@@ -2136,13 +2136,13 @@ Phonics学习法在国内也叫“自然拼读法”，从它的介绍来看，�
 
 下面是“音形意统一记忆法”的脑回路，对比一下，孰优孰劣，一目了然。听说读写能力不需要专门练习，自然就会。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB52B.png) 
+![img](img/wpsB52B.png) 
 
 ## 说说“词根记忆法”脑回路
 
 上次，我跟大家讲了“谐音联想记忆法”的脑回路，这次，我再跟大家讲讲“词根记忆法”的脑回路。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB52C.png) 
+![img](img/wpsB52C.png) 
 
 “词根记忆法”只针对部分单词有效，因为这部分单词可分解为：前缀、词根、后缀。对于不能分解的单词，或者很难分解的单词，词根记忆法就束手无策了。
 
@@ -2196,7 +2196,7 @@ Phonics学习法在国内也叫“自然拼读法”，从它的介绍来看，�
 
 今天，我单说《美国传统词典The American Heritage dictionary》，以下简称AHD。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB53C.png) 
+![img](img/wpsB53C.png) 
 
 我们都知道，美国人既自信又傲慢，美国人通常认为：“我们美国人的标准就是全世界的标准。”
 
@@ -2214,9 +2214,9 @@ Phonics学习法在国内也叫“自然拼读法”，从它的介绍来看，�
 
 AHD用的就是重拼的方法。可以看下图，这就是AHD中对单词读音所用的符号。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB53D.png) 
+![img](img/wpsB53D.png) 
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB53E.png) 
+![img](img/wpsB53E.png) 
 
 为何AHD要这么做呢，它的目的是什么？他在书里面是这么说的：Althouth similar, the AHD and IPA ( International Phonetic Alphabet ) symbols are not precisely the same because they were conceived for different purposes.
 
@@ -2269,7 +2269,7 @@ AHD的符号看起来有点乱，我给大家整理一下。
 
 “中国国际广播出版社”在1986年左右，陆续出版了一套书。很多人都知道其中的一本，那就是蒋争写的《英语词汇的奥秘》。《英语词汇的奥秘》再版了很多次，对于一本光靠口碑销售的书，这真的很不容易，虽然它的书名是个标题党。在市场还没有大批量造词汇书的时候，只要是记单词，很多人都推荐《英语词汇的奥秘》。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB540.png) 
+![img](img/wpsB540.png) 
 
 之后，部分英语培训机构，以及很多出版社与高校老师联合，根据“构词法”、“联想法”、“谐音法”、“类比法”、“分类法”、“记忆曲线法”等编了一大堆书，依然不能全部夺走了《英语词汇的奥秘》的光彩。
 
@@ -2303,7 +2303,7 @@ AHD的符号看起来有点乱，我给大家整理一下。
 
 当然，这本书参与编写的几个作者工作还是很用心的，弄出来这么厚的一本书，这一点是不容怀疑的，比那些出版社为了卖书而出书的祸害人的商业行为要高尚很多，那些汗牛充栋，夸大其词的书我是一眼都看不上。比如《XX天熟记10000词》、《单词不是用来背的》、《鸡鸡法记单词》……
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB541.jpg) 
+![img](img/wpsB541.jpg) 
 
 好了，好话都说完了，现在开始说坏话了。为什么，我说它同样是一个大坑。
 
@@ -2319,13 +2319,13 @@ AHD的符号看起来有点乱，我给大家整理一下。
 
 我虽然没有完整地看过他们的书，只在网上搜出一些书的扫描页，但是我看一眼我就能想像得到，搞出这样的书很不容易，我说的不容易并不是指有多难，而是指要花很多时间。而且我能想像到，这本书绝不是一个人搞出来的，而是一群人。真是难为他们了。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB552.jpg) 
+![img](img/wpsB552.jpg) 
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB563.png) 
+![img](img/wpsB563.png) 
 
 果不其然，从他们官网公布的这张照片可以看到乌压压的一群员工在工作，而且，他们公司现在还招各类人才，因为他们已经不满足于搞出的“象形单词”，他们还要搞一个动画记单词，我想说：你们可真“行”。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB564.png) 
+![img](img/wpsB564.png) 
 
 这一切是怎么发生、发展的呢？
 
@@ -2409,7 +2409,7 @@ http://www.saypyu.com/
 
 SaypU与IPA的转换如下表
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB565.png) 
+![img](img/wpsB565.png) 
 
 
 你能看懂下面这段话吗？这段话就是经过SaypU改造过的英语。不要光看字母，将音拼读出来。
@@ -2452,7 +2452,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 右边表示一个音标的所有字母/组合情况，字母右上角的数字1、2、3、4就是“Single Phonograms”方法的核心，比如，a字母有5种发音情况，那么就在a右上角标上1~5区分这5种发音情况。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB566.png) 
+![img](img/wpsB566.png) 
 
  大家觉得这种方法怎么样？我觉得这种方法没有对元音进行分类，学起来很累，而且花钱。
 
@@ -2462,7 +2462,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 我想说的是陈爱文老先生的另外一本书《英语见字知音法 》，陈爱文和他的妻子周静梓都是北京大学毕业的。他们夫妻俩给我的印像是一直都在搞“汉字表形码输入法”的，却没有想到他们会在2010年12月的时候，由上海三联书店出版了一本名叫《英语见字知音法》的书。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB576.png) 
+![img](img/wpsB576.png) 
 
 这本书我买了一本，他书中的指导思想是这样的：根据电脑统计6000常用词得出，60%的单词符合规则，可以直接拼读；另40%添加定音记号后，便能实现直接拼读。他所谓的规则便是统计规律，他所谓的定音记号便是像法语等字母上方的标号。
 
@@ -2494,7 +2494,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 众多法语协会要求巴黎“申奥委”撤回英语口号，用法语取代。号称“Immortels（不朽者）”的40名法兰西学士院的院士们也破天荒地“一致” 谴责巴黎“申奥委”。家喻户晓的电视节目主播毕佛更是严历谴责。可以说整个法兰西叒掀起了一股“法语保卫战”。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB579.png)
+![img](img/wpsB579.png)
 
 但这并没有什么卵用！！！
 
@@ -2539,7 +2539,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 ## 拓展阅读：《最后一课》的真相到底是什么？
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB57A.png) 
+![img](img/wpsB57A.png) 
 
 > 真相就在于：到疧阿尔萨斯人认为自己是法国人，还是德国人。但是，这个问题很难回答，因为真相已经模糊在历史的烟尘中。
 >
@@ -2587,7 +2587,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 ## 语言是人类最得意的发明
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB58B.png) 
+![img](img/wpsB58B.png) 
 
 > 创11:1　那时，天下人的口音、言语，都是一样。
 >
@@ -2659,7 +2659,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 ## 语言是人类真正的信仰
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB58C.png) 
+![img](img/wpsB58C.png) 
 
 一门语言便是一个宗教，每个人都心甘情愿地皈依它，每天为它祷告，一生为它上供。
 
@@ -2697,7 +2697,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 世界上无论哪一门自然产生的语言，都是先有“音”，后有“意”，再然后经过千万年进化，将“音”和“意”统一形成一门语言。再到后来，人类发明了文字，通过将“音”和“意”融入到文字中，从而将它文字化，即将音、形和意统一成一个整体。明白了这个道理，学习语言就有了指路明灯。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB58D.png) 
+![img](img/wpsB58D.png) 
 
 “音”、“形”、“意”是语言“三位一体”的真神，学习语言的过程就是将这三者统一的过程。但很多人没有认识到这么一个基本道理，他们觉得语言的“音”、“形”、“意”三者是不相关的三个东西，学习语言的过程是将不相关的三个东西“拉郎配”硬凑在一块，是死记硬背。
 
@@ -2769,7 +2769,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 ## 喝一碗鱼汤，一下记住三个单词
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB5B4.png) 
+![img](img/wpsB5B4.png) 
 
 “如果让我喝这一碗鱼汤，一下能记住三个单词，永远忘不掉那种，我这喝一百碗我都愿意。”——朵朵
 
@@ -2806,7 +2806,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 汉字应该被称为一种“拼形文字”。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB5B2.png) 
+![img](img/wpsB5B2.png) 
 
 “拼”字是什么意思？“拼”就是“拼凑、合并”的意思。
 
@@ -2814,7 +2814,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 将汉字称为“拼形文字”，在逻辑上很完美，而且能形成一种跟英语等“拼音文字”分庭抗礼的格局，为中华文化崛起竖起一面“拼形文字”的大旗，从而摆脱认为汉语不如英语，认为人类文字的发展趋势是拼音化的不利观点。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB5B3.png) 
+![img](img/wpsB5B3.png) 
 
 认识到汉字是一种“拼形文字”，对于中国学生和外国学生学习汉字有很大的帮助。学习英语从元音、辅音开始学起，学习汉语如果从字根开始学起，就会更省时、省力。因为元音、辅音的数量很少，字根的数量也很少。小孩子学字根，就能在短期内掌握大量汉字。
 
@@ -2830,7 +2830,7 @@ SaypU项目从2012年12月10日施行，现在已经和国际语一样沦为笑�
 
 这张图是由圆形、三角形、四边形、五边形、六边形、七边形、八边形……64边形……叠加而成的。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB5B6.jpg)
+![img](img/wpsB5B6.jpg)
 
 比如，我们随意写下“人、天、水”三个符号时，我们不仅仅想用三个不同的符号代表三个不同的事物，更重要的是，我们想表达这三个事物处于“相生相克（矛盾统一）、周转往复”的大系统中。没有任何事物是脱离大系统而存在的，也没有任意的两个事物是没有关联的。
 
@@ -3254,11 +3254,11 @@ I键以“人”为键名，J键处于“人”字形的撇线区，笔画以撇
 
 如下图所示，汉字的编码过程是：先由笔画（横、竖、撇、捺、折）组成偏旁（部首）等；再由偏旁（部首）组成汉字；再由汉字组成词汇；最后由词汇组成文章。在汉语的这一编码过程中，意义参与了笔画至偏旁（部首）、偏旁（部首）至汉字、汉字至词汇的编码过程；而读音只是在这一过程中，强加到汉字上，并未参与汉语的编码过程。正因为如此，汉语才会出现数量如此之多，差异如此之大的方言。也因为汉字重字形，所以才有如此美妙的文字书法。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB59E.png)
+![img](img/wpsB59E.png)
 
 如下图所示，英语的编码过程是由字母构成音素，再由音素构成词素，最后由词素构成单词。其中词素包括前缀、词根、连缀和后缀（一些较短的英语词汇可看成没有前缀和后缀）。读音参与了字母至音素，音素至词素，词素至词汇的编码过程；意义一方面强加到字母、音素和词素上，另一方面意义参与了词素至词汇的编码过程。在英语中，意义在词素至词汇这一过程中参与了编码，英语构词法中词性的变化便来源于这一过程，这与象形文字由意义主导的编码方式是一致的，我们要充分利用这一点。从英语的编码过程中，我们可以看出语音起主导作用。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB59F.png)
+![img](img/wpsB59F.png)
 
 从以上对拼形文字与拼音文字的对比可以发现：二者的编码本质有巨大差异。拼形文字的编码过程中，体现意义的字形是编码关键，而读音是强加的。而拼音文字的编码过程中，读音是编码的关键，而意义主要是强加的。
 
@@ -3266,7 +3266,7 @@ I键以“人”为键名，J键处于“人”字形的撇线区，笔画以撇
 
 我国现在多采用国际音标的形式实行英语教学，这种学习方式迫使学生硬性地将汉语意义、词性、读音与字形关联起来，如下图所示。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB5A0.png)
+![img](img/wpsB5A0.png)
 
 图. 现行英语教学方式
 
@@ -3278,7 +3278,7 @@ I键以“人”为键名，J键处于“人”字形的撇线区，笔画以撇
 
 别的我不懂，不过以后除了背单词，还要背拼音。
 
-![img](https://github.com/englishword/lingose-notation/blob/master/img/wpsB5A1.png) 
+![img](img/wpsB5A1.png) 
 
 请看下面的文章。看这篇拼音文章对我们学英语会有很多启发。学英语跟学拼音是一样一样的，明白了这个道理，英语很快就可以突飞猛进。
 
