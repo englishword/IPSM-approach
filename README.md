@@ -1,81 +1,79 @@
 # IPSM Approach
 
-The IPSM Approach (**Integrated Pronunciation, Spelling and Meaning Approach**) is an English word memory technique. It links the pronunciation, spelling, and meaning of each English word by using phonetic notation and morpheme division. This enables learners to grasp the pronunciation rules and the core letter meanings within words progressively during the learning process. As a result, they can recognize a word by its pronunciation and understand its meaning upon seeing it, significantly improving the efficiency of memorizing words.
-In fact, memorizing an English word is essentially about connecting these three aspects of the word together.
+> **Integrated Pronunciation, Spelling and Meaning Approach**
+> An English word-memory method built on pronunciation mechanics and word-formation rules
 
-The IPSM Approach consists of three key elements: IPS, ISM, and IPM. The IPS incorporates the pronunciation rules into the words through IPS notation. The ISM integrates the word formation rules into the words through morpheme division. The IPM is achieved by perceiving the inherent connection between phonemes and meanings.
+This repository hosts the complete manuscript of the book *IPSM Approach* ([`IPSM_lecture_book.md`](IPSM_lecture_book.md)) and documents how the book was produced.
 
-## IPS Notation
+---
 
-Integrated Pronunciation and Spelling (IPS) notation for phonemes, a direct notation system, mark above the vowel and a few consonant letters of words to indicate pronunciations without altering their spellings, being simpler than the International Phonetic Alphabet (IPA) and other respelling symbols.
+The **IPSM Approach (Integrated Pronunciation, Spelling and Meaning Approach)** is an English word-memory method. Through **phonetic notation** and **morpheme division** on each word, it highlights and links together what are otherwise kept separate — **Pronunciation, Spelling, and Meaning** — so that learners gradually internalize the pronunciation rules and the meanings of core letters, ultimately being able to **recognize a word by its pronunciation and understand its meaning upon seeing it**, and memorizing words far more efficiently.
 
-The IPSM Approach categorizes the main vowel pronunciations of words from strong to weak into four rhythms: open syllables (marked with a horizontal line), closed syllables (unmarked), light syllables (marked with a dot), and weak syllables (marked with a circle).
+Memorizing an English word is, in essence, the process of linking these three aspects together.
 
-Symbols above vowel letters or vowel combinations:
-- Line   ( — ):   Open diacritic   (pronouncing the opened sound, vowel's letter sound).
-- None   (   ):   Closed diacritic (pronouncing the closed sound).
-- Dot    ( . ):   Soft diacritic   (pronouncing /i/).
-- Circle ( 。):   Weak diacritic   (pronouncing /ə/).
+The IPSM Approach comprises three cooperating components (abbreviations used throughout):
 
-Other vowels are marked by 
-- Wave       ( ~ ):     Long vowel.
-- Apostrophe ( ˋ ):     Variant sound.
-- Sharp      ( ^ ):     Pronouncing /˄/.
+- **IPS (Integrated Pronunciation and Spelling)**: incorporates pronunciation rules into words via phonetic-notation symbols (IPS Notation).
+- **ISM (Integrated Spelling and Meaning)**: incorporates word-formation rules into words via morpheme division.
+- **IPM (Integrated Pronunciation and Meaning)**: perceive the inherent connection between phoneme rhythm and meaning.
 
-The IPS notation corresponds one-to-one with IPA (International Phonetic Alphabet) . It is possible to convert the IPA of an Englsih word into IPS and vice versa. If you haven't mastered IPA yet, it won't affect your learning of IPS. If you have already mastered IPA, it will not only assist you in learning IPS but also enable you to have a better understanding of IPA.
+## About this book
 
-Compared with IPA, IPS is created based on the pronunciation rules of words. It is more concise and clear. With long-term use, you can master the pronunciation rules of words imperceptibly and thus no longer need any phonetic notation.
+The book began as an attempt to help a friend who could never quite memorize words (see the [Preface](IPSM_lecture_book.md)). Lacking a truly suitable English vocabulary book on the market, the author wrote a first draft in three months, then polished it into the present monograph.
 
-| **IPA Symbol** | **IPS Notation**  | **Examples** |
-| :--------------: | ------------- | ----------- |
-| /p/            | [p]                                                          | pen                                               |
-| /b/            | [b]                                                          | bed                                               |
-| /t/            | [t]                                                          | tab                                               |
-| /d/            | [d]                                                          | dog                                               |
-| /k/            | [k], [c], [ck]                                               | kid, cat, cob, cub, kick                          |
-| /g/            | [g]                                     | gab, god, gun                                     |
-| /f/            | [f], [ph], [gh]                                              | fan, phōtō, tôugh                              |
-| /v/            | [v]                                                          | very̍                                            |
-| /s/            | [s], [c]                                                     | sad, cell, city̍, cȳbe̊r                       |
-| /z/            | [z], [s̍ ]                                                    | zoo, rīs̍e                                      |
-| /ð/            | [t̅h]                                                      | t̅his                                            |
-| /θ/            | [th]                                                         | think                                             |
-| /m/            | [m]                                                          | map                                               |
-| /n/            | [n]                                                          | nap                                               |
-| /ŋ/            | [ng], [n(k)]                                                 | king, think                                       |
-| /l/            | [l]                                                          | līke                                             |
-| /r/            | [r]                                                          | red                                               |
-| /h/            | [h]                                                          | his                                               |
-| /w/            | [w]                                                          | wag                                               |
-| /j/            | [y]                                                          | yes                                               |
-| /ʃ/            | [sh], [c̅h]                                                | ship, måc̅hine                                  |
-| /ʒ/            | [s᷉]                                                          | vis᷉io̊n                                        |
-| /tʃ/           | [ch], [tch]                                                  | chat, catch                                       |
-| /dʒ/           | [j], [g], [dg]                                               | jump, gem, ginge̊r, gy̍m, judge                 |
-| /æ/            | [a]                                                          | bad                                               |
-| /e/            | [e] , [èa]                                                   | bed, hèad                                         |
-| /i/            | [i], [y̍], [ė], [ėy], [a̍ ], [u̍]                            | sit, prėtty̍, hônėy, dama̍ge, bu̍s̍y̍           |
-| /ɔ/            | [o]                                                          | hot                                               |
-| /ʌ/            | [u], [ô], [ôu], [ôo]                                         | but, lôve, ėnôugh, blôod                          |
-| /ei/           | [ā], [āi], [āy], [eā], [èy], [èi]                            | lāte, wāit, sāy, greāt, thèy, wèigh               |
-| /i:/           | [ē], [ēe], [ēa], [ēi], [ēy], [iē], [ĩ]                       | mē, mēet, mēan, rėcēive, kēy, bėliēf, po̊lĩce      |
-| /ai/           | [ī], [ȳ]                                                     | nīce, flȳ                                         |
-| /əu/           | [ō], [ōa], [ōw], [ōu]                                        | gō, rōad, slōw, thōugh                            |
-| /ju:/          | [ū], [ūi], [ew̄], [eū]                                        | dūty, sūit, new̄, neūtrål                          |
-| /u:/           | [(l/r)ū], [oū], [oo], [õ]                                    | trūe, groūp, tool, dõ                             |
-| /u/            | [oo(k)], [oo(d)], [ù]                                | good, look, pùll, pùsh                 |
-| /a:/           | [àr], [à]                                                    | dàrk, àsk                                         |
-| /au/           | [òu], [òw]                                                   | lòud, còw                                         |
-| /eə/           | [ār], [āir], [āer], [eār], [er]                              | cāre, fāir, āerāte, weār, there                  |
-| /iə/           | [ēr], [ēer], [ēar],                                          | bēer, hēar, hēre                                  |
-| /aiə/          | [īr]                                                         | fīre                                              |
-| /ɔ:/           | [or], [ōr], [ōar], [ōur], [ōu(gh)], [ã(l)], [ãu], [ãw], [(w)ãr], | port, bōard, yōur, bōught, tãll, ãutho̊r, lãw, wãr |
-| /uə/           | [ūr]                                                         | dūring                                            |
-| /ə/            | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)]                             | ōpe̊n, åbòut, ēvi̊l, pro̊pel, sůpplȳ, fāmo̊us     |
-| /ə:/           | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur]            | he̊r, collår, fi̊rst, wo̊rd, fůr, le̊arn, hono̊ur, amåte̊ur |
-| /ɔi/           | [oi], [oy̍]                                                   | oil, boy̍                                          |
+**Who it's for**: learners long frustrated by "memorize-and-forget" cycles, English teachers, and anyone interested in word-memory methods.
 
-## Morphemic Division
+## Table of Contents
 
-Unlike common syllable division, the morpheme division method uses symbols (-) to separate the prefixes, roots, infixes and suffixes of an English word based on word formation rules, better showing its internal structure.
+> The outline below matches [`IPSM_lecture_book.md`](IPSM_lecture_book.md) exactly.
 
+- **Preface** — I Wrote a Book to Help a Friend Memorize Words
+- **Part I · Introduction**
+  - Ch. 1 Symbol Conventions of This Book
+  - Ch. 2 What Is the IPSM Approach
+  - Ch. 3 Comparison with the International Phonetic Alphabet (IPA)
+  - Ch. 4 Quick Start
+- **Part II · Integrated Pronunciation and Spelling (IPS)**
+  - Ch. 5 IPS — Integrating Pronunciation and Spelling
+  - Ch. 6 Reading Practice and a Short Course
+- **Part III · Integrated Spelling and Meaning (ISM)**
+  - Ch. 7 ISM — Integrating Spelling and Meaning
+- **Part IV · Integrated Pronunciation and Meaning (IPM)**
+  - Ch. 8 IPM — Integrating Pronunciation and Meaning
+- **Part V · Letters**
+  - Ch. 9 The Sound, Form, and Meaning of Letters
+- **Part VI · Learning Philosophy and Method Review**
+  - Ch. 10 Learning Philosophy
+  - Ch. 11 Comparison and Review of Methods
+  - Ch. 12 Teaching and Self-Study Guide
+- **Appendix A** — Chinese vs. English: Encoding and Writing
+- **Appendix B** — Further Reading on Language and Culture
+- **Appendix C** — IPSM-Annotated Reading Practice (30 bilingual essays)
+- **Afterword**
+
+## How to read
+
+The book invents no new characters and replaces no letters; instead, it marks symbols above letters to distinguish pronunciations without altering spelling. The **symbol quick-reference** below is enough to read smoothly.
+
+### Symbol quick-reference
+
+| Symbol | Name | Function |
+|:---:|---|---|
+| ─ | Open diacritic | Open sound (the vowel's letter sound) |
+| ∅ | Closed diacritic (blank) | Closed sound |
+| ⦁ | Soft diacritic | Soft sound /i/ |
+| ○ | Weak diacritic | Weak sound /ə/ |
+| ∼ | Long diacritic | Long sound |
+| ∖ | Variant diacritic | Variant sound |
+| ˄ | Caret | /ʌ/ sound |
+
+> Vowel pronunciations fall into four rhythm grades from "strong" to "weak": **open (─), closed (∅), soft (⦁), weak (○)** — the core rhythm view of IPS.
+
+## Resources
+
+- **Method website**: [https://lingose.com](https://lingose.com)
+- **Published book**: [IPSM Approach — Zhan Xianjue.pdf](《不一样的英语语汇书 音形意统一记忆法》 詹先觉.pdf)
+
+---
+
+*This book is an original methodology monograph; content is for learning and exchange only.*
