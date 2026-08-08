@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 668 643" role="img" aria-labelledby="t5 d5">
+  <title id="t5">元音字母关系图</title>
+  <desc id="d5">以五边形展示 5 个元音字母（A、E、U/W、O、I/Y）及中心 R 的关系：黑线为五边形边与五角星对角线，红线为 R 到顶点（ar/er/ir/or/ur），蓝线为 R 到边中点（air/ear/eur/our/oar）。</desc>
+  <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,'PingFang SC','Microsoft YaHei',sans-serif" text-rendering="geometricPrecision">
+    <!-- ===== 黑色：五边形边（粗） ===== -->
+    <path d="M302 60 L544 236 L452 522 L153 522 L60 236 Z" stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linejoin="round"/>
+    <!-- ===== 黑色：五角星对角线 + 延长线（细） ===== -->
+    <g stroke="#1a1a1a" stroke-width="1.2" fill="none" stroke-linecap="round">
+      <path d="M60 236 L544 236"/>
+      <path d="M302 60 L452 522"/>
+      <path d="M302 60 L153 522"/>
+      <path d="M60 236 L452 522"/>
+      <path d="M544 236 L608 216"/>
+      <path d="M153 522 L132 583"/>
+    </g>
+    <!-- ===== 红色：中心 R 到 5 顶点 ===== -->
+    <g stroke="#d12e2e" stroke-width="1.4" fill="none" stroke-linecap="round">
+      <path d="M302 315 L302 60"/>
+      <path d="M302 315 L544 236"/>
+      <path d="M302 315 L60 236"/>
+      <path d="M302 315 L153 522"/>
+      <path d="M302 315 L452 522"/>
+    </g>
+    <!-- ===== 蓝色：中心 R 到 5 边中点（M_AO 为 A→O 对角线 60% 处） ===== -->
+    <g stroke="#1f6feb" stroke-width="1.4" fill="none" stroke-linecap="round">
+      <path d="M302 315 L181 148"/>
+      <path d="M302 315 L423 148"/>
+      <path d="M302 315 L498 379"/>
+      <path d="M302 315 L302 522"/>
+      <path d="M302 315 L212 337"/>
+    </g>
+
+    <!-- ===== 中心白圆 + R ===== -->
+    <circle cx="302" cy="315" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+    <text x="302" y="315" font-size="22" font-weight="700" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">R</text>
+
+    <!-- ===== 顶点字母（粗体，带白 halo） ===== -->
+    <g font-size="24" font-weight="700" stroke="#ffffff" stroke-width="4" paint-order="stroke fill">
+      <text x="302" y="40" fill="#1a1a1a" text-anchor="middle">A</text>
+      <text x="544" y="222" fill="#1a1a1a" text-anchor="middle">E</text>
+      <text x="462" y="540" fill="#1a1a1a" text-anchor="start">U, W</text>
+      <text x="143" y="540" fill="#1a1a1a" text-anchor="end">O</text>
+      <text x="52" y="236" fill="#1a1a1a" text-anchor="end">I, Y</text>
+    </g>
+
+    <!-- ===== 延长线末端 ee / oo ===== -->
+    <g font-size="17" stroke="#ffffff" stroke-width="3" paint-order="stroke fill" fill="#1a1a1a" dominant-baseline="central">
+      <text x="616" y="216" text-anchor="start">ee</text>
+      <text x="124" y="597" text-anchor="end">oo</text>
+    </g>
+
+    <!-- ===== 双元音/元音组合标签（黑色） ===== -->
+    <g font-size="17" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="#ffffff" stroke-width="3" paint-order="stroke fill">
+      <text x="183" y="120">ai</text>
+      <text x="124" y="154">ay</text>
+      <text x="438" y="120">ea</text>
+      <text x="345" y="128">au</text>
+      <text x="353" y="162">aw</text>
+      <text x="166" y="226">ie</text>
+      <text x="396" y="226">ei</text>
+      <text x="447" y="226">ey</text>
+      <text x="540" y="332">eu</text>
+      <text x="515" y="417">ew</text>
+      <text x="379" y="536">ou</text>
+      <text x="302" y="536">ow</text>
+      <text x="353" y="477">ui</text>
+      <text x="64" y="332">oi</text>
+      <text x="90" y="417">oy</text>
+      <text x="183" y="383">oa</text>
+    </g>
+
+    <!-- ===== 蓝色 r-组合标签（含多出的 eer） ===== -->
+    <g font-size="17" fill="#1f6feb" text-anchor="middle" dominant-baseline="central" stroke="#ffffff" stroke-width="3" paint-order="stroke fill">
+      <text x="217" y="196">air</text>
+      <text x="387" y="196">ear</text>
+      <text x="438" y="256">eer</text>
+      <text x="421" y="341">eur</text>
+      <text x="302" y="468">our</text>
+      <text x="251" y="324">oar</text>
+    </g>
+
+    <!-- ===== 红色 r-组合标签 ===== -->
+    <g font-size="17" fill="#d12e2e" text-anchor="middle" dominant-baseline="central" stroke="#ffffff" stroke-width="3" paint-order="stroke fill">
+      <text x="315" y="188">ar</text>
+      <text x="396" y="273">er</text>
+      <text x="200" y="273">ir</text>
+      <text x="226" y="400">or</text>
+      <text x="353" y="417">ur</text>
+    </g>
+  </g>
+</svg>

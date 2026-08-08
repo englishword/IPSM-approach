@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 770 826" role="img" aria-labelledby="t4 d4">
+  <title id="t4">辅音字母关系图</title>
+  <desc id="d4">辅音（及相关）字母的关系网络：黑线表字形/发音直连，绿线表发音方法/部位关联，蓝线表清浊对应垂直链，红线表元音相关。</desc>
+  <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,'PingFang SC','Microsoft YaHei',sans-serif" text-rendering="geometricPrecision">
+    <!-- ===== 连线（先画，置于文字下层） ===== -->
+    <!-- 黑色：字形/发音直连 -->
+    <g stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M45 445 L125 605"/>
+      <path d="M285 45 L285 109 L245 173"/>
+      <path d="M45 245 L117 381"/>
+      <path d="M45 245 L205 245"/>
+      <path d="M205 245 L405 245"/>
+      <path d="M405 245 L645 349"/>
+      <path d="M205 445 L405 445"/>
+      <path d="M205 541 L405 541"/>
+      <path d="M205 621 L405 621"/>
+      <path d="M205 701 L405 701"/>
+      <path d="M45 701 L205 701"/>
+      <path d="M117 381 L205 541"/>
+      <path d="M405 701 L461 621"/>
+      <path d="M405 701 L565 581"/>
+      <path d="M405 701 L645 581"/>
+      <path d="M453 493 L629 445"/>
+      <path d="M405 445 L645 349"/>
+    </g>
+    <!-- 绿色：发音方法/部位关联 -->
+    <g stroke="#2e8b3d" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M205 245 L301 349 L205 445"/>
+      <path d="M405 245 L301 349 L405 445"/>
+      <path d="M405 245 L485 173 L525 269"/>
+      <path d="M405 445 L453 493 L565 581"/>
+      <path d="M405 541 L541 509 L629 445"/>
+      <path d="M405 541 L469 565 L565 581"/>
+      <path d="M405 621 L461 621 L565 581"/>
+      <path d="M645 349 L629 445 L565 581"/>
+      <path d="M205 541 L117 381 L205 245"/>
+      <path d="M285 109 L245 173 L205 245"/>
+      <path d="M565 581 L645 581 L725 581"/>
+    </g>
+    <!-- 蓝色：清浊对应垂直链 -->
+    <g stroke="#1f6feb" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M405 245 L405 445 L405 541 L405 621 L405 701"/>
+      <path d="M205 245 L205 445 L205 541 L205 621 L205 701"/>
+    </g>
+    <!-- 红色：元音相关 -->
+    <g stroke="#d12e2e" stroke-width="1.6" fill="none" stroke-linecap="round">
+      <path d="M125 221 L93 269"/>
+      <path d="M125 221 L157 269"/>
+      <path d="M93 269 L157 269"/>
+      <path d="M525 269 L605 245"/>
+      <path d="M525 373 L509 429"/>
+      <path d="M525 373 L565 413"/>
+      <path d="M509 429 L565 413"/>
+      <path d="M485 309 L541 325"/>
+      <path d="M525 269 L485 309"/>
+      <path d="M525 269 L541 325"/>
+    </g>
+
+    <!-- ===== 单字母辅音节点圆圈（白底细边，盖住穿过的连线） ===== -->
+    <g fill="#ffffff" stroke="#1a1a1a" stroke-width="1.4">
+      <circle cx="45"  cy="445" r="17"/>  <!-- l -->
+      <circle cx="125" cy="605" r="17"/>  <!-- r -->
+      <circle cx="285" cy="45"  r="17"/>  <!-- m -->
+      <circle cx="285" cy="109" r="17"/>  <!-- n -->
+      <circle cx="45"  cy="245" r="17"/>  <!-- j -->
+      <circle cx="205" cy="245" r="17"/>  <!-- g -->
+      <circle cx="405" cy="245" r="17"/>  <!-- k -->
+      <ellipse cx="485" cy="173" rx="24" ry="17"/>  <!-- qu -->
+      <circle cx="301" cy="349" r="17"/>  <!-- x -->
+      <circle cx="645" cy="349" r="17"/>  <!-- c -->
+      <circle cx="205" cy="445" r="17"/>  <!-- z -->
+      <circle cx="405" cy="445" r="17"/>  <!-- s -->
+      <circle cx="205" cy="541" r="17"/>  <!-- d -->
+      <circle cx="405" cy="541" r="17"/>  <!-- t -->
+      <circle cx="565" cy="581" r="17"/>  <!-- h -->
+      <circle cx="725" cy="581" r="17"/>  <!-- g（第二个） -->
+      <circle cx="205" cy="621" r="17"/>  <!-- b -->
+      <circle cx="405" cy="621" r="17"/>  <!-- p -->
+      <circle cx="45"  cy="701" r="17"/>  <!-- w -->
+      <circle cx="205" cy="701" r="17"/>  <!-- v -->
+      <circle cx="405" cy="701" r="17"/>  <!-- f -->
+    </g>
+
+    <!-- ===== 节点文字（后画，压在连线上；白色描边 halo 保证可读） ===== -->
+    <g font-size="22" text-anchor="middle" dominant-baseline="central" stroke="#ffffff" stroke-width="3.5" paint-order="stroke fill">
+      <!-- 黑色字母 -->
+      <g fill="#1a1a1a">
+        <text x="45" y="445">l</text>
+        <text x="125" y="605">r</text>
+        <text x="285" y="45">m</text>
+        <text x="285" y="109">n</text>
+        <text x="245" y="173">ng</text>
+        <text x="45" y="245">j</text>
+        <text x="205" y="245">g</text>
+        <text x="405" y="245">k</text>
+        <text x="485" y="173">qu</text>
+        <text x="117" y="381">dg</text>
+        <text x="301" y="349">x</text>
+        <text x="645" y="349">c</text>
+        <text x="205" y="445">z</text>
+        <text x="405" y="445">s</text>
+        <text x="453" y="493">sh</text>
+        <text x="541" y="509">tch</text>
+        <text x="629" y="445">ch</text>
+        <text x="205" y="541">d</text>
+        <text x="405" y="541">t</text>
+        <text x="469" y="565">th</text>
+        <text x="565" y="581">h</text>
+        <text x="645" y="581">gh</text>
+        <text x="725" y="581">g</text>
+        <text x="205" y="621">b</text>
+        <text x="405" y="621">p</text>
+        <text x="461" y="621">ph</text>
+        <text x="45" y="701">w</text>
+        <text x="205" y="701">v</text>
+        <text x="405" y="701">f</text>
+      </g>
+      <!-- 红色字母（元音） -->
+      <g fill="#d12e2e">
+        <text x="125" y="221">e</text>
+        <text x="93" y="269">i</text>
+        <text x="157" y="269">y</text>
+        <text x="605" y="245">w</text>
+        <text x="525" y="269">u</text>
+        <text x="485" y="309">a</text>
+        <text x="541" y="325">o</text>
+        <text x="525" y="373">e</text>
+        <text x="509" y="429">i</text>
+        <text x="565" y="413">y</text>
+      </g>
+    </g>
+    <!-- 底部清/浊分类标签 -->
+    <g font-size="16" text-anchor="middle" dominant-baseline="central" fill="#1a1a1a">
+      <text x="205" y="781">浊</text>
+      <text x="405" y="781">清</text>
+    </g>
+  </g>
+</svg>

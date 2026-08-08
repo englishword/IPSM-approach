@@ -1722,7 +1722,7 @@ gu 组合中，u 常不发音，如 g𝕦ess、fatig𝕦e。此时 g 后紧跟�
 
 **图：辅音字母关系图**
 
-![辅音字母关系图](../englishword.github.io/images/documents/08-consonant-relationship.svg)
+![辅音字母关系图](img/08-consonant-relationship.svg)
 
 图中可见一些成对的联系，例如：
 
@@ -1736,7 +1736,7 @@ gu 组合中，u 常不发音，如 g𝕦ess、fatig𝕦e。此时 g 后紧跟�
 
 **图：元音字母关系图**
 
-![元音字母关系图](../englishword.github.io/images/documents/08-vowel-relationship.svg)
+![元音字母关系图](img/08-vowel-relationship.svg)
 
 元音字母之间同样彼此相通。图中每个字母或字母组合大多不止发一个音，其具体发音情况已在第 5 章的元音扩展表中列出，此处不再重复。
 
